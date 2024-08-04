@@ -1,0 +1,1001 @@
+id_producto,nombre_producto,categoria_producto,precio_producto,id_usuario,nombre_usuario,edad_usuario,genero_usuario,ubicacion_usuario,historial_compras,fecha_venta,cantidad_vendida,opiniones_usuarios,visitas_producto,carrito_abandonado,descuentos_aplicados,metodo_pago,frecuencia_compras,dispositivo_uso
+1290,Producto C,Electronica,286.86,121,Juan,59,H,Ciudad C,"Producto D,Producto B,Producto C",11/02/23,3,4,3,0,15,Transferencia,Trimestral,Tablet
+1177,Producto B,Ropa,227.94,129,Ana,39,M,Ciudad A,"Producto B,Producto A",31/01/23,9,4,12,0,15,Transferencia,Semanal,Desktop
+1839,Producto B,Electronica,52.42,167,Maria,20,M,Ciudad B,"Producto D,Producto A",6/02/23,2,1,2,0,5,PayPal,Trimestral,Móvil
+1667,Producto A,Ropa,325.7,137,Ana,21,H,Ciudad B,"Producto D,Producto A,Producto D",20/03/23,8,5,12,0,0,PayPal,Semanal,Desktop
+1140,Producto A,Hogar,293.11,153,Carlos,46,H,Ciudad C,"Producto B,Producto B,Producto D,Producto A",11/01/23,3,2,17,0,20,Tarjeta,Semanal,Móvil
+1036,Producto C,Ropa,323.62,189,Juan,66,H,Ciudad A,"Producto D,Producto B,Producto C,Producto D",20/10/23,1,4,13,0,10,Transferencia,Semanal,Desktop
+1823,Producto B,Juguetes,361.0,126,Luis,65,H,Ciudad A,"Producto C,Producto B",3/07/23,9,4,12,0,20,PayPal,Semanal,Móvil
+1478,Producto A,Juguetes,305.54,122,Juan,21,M,Ciudad A,"Producto C,Producto D,Producto C",2/12/23,9,1,9,0,0,Tarjeta,Semanal,Móvil
+1616,Producto D,Ropa,190.07,103,Luis,61,M,Ciudad B,"Producto D,Producto A,Producto C,Producto B",25/06/23,8,2,13,0,10,Tarjeta,Mensual,Tablet
+1577,Producto A,Ropa,437.93,166,Sofia,33,H,Ciudad B,"Producto C,Producto C,Producto D,Producto D",18/01/23,5,2,11,0,0,Transferencia,Mensual,Desktop
+1476,Producto B,Juguetes,244.69,186,Maria,60,M,Ciudad C,"Producto A,Producto D,Producto D",18/01/23,3,2,2,0,10,Efectivo,Mensual,Desktop
+1119,Producto C,Hogar,482.29,186,Sofia,26,M,Ciudad A,"Producto D,Producto C,Producto C",23/04/23,2,2,1,1,5,PayPal,Trimestral,Móvil
+1798,Producto B,Ropa,297.31,135,Maria,54,H,Ciudad A,Producto C,21/04/23,4,2,18,1,15,PayPal,Trimestral,Desktop
+1589,Producto A,Electronica,421.47,181,Carlos,63,H,Ciudad C,"Producto D,Producto D,Producto D",12/06/23,7,4,3,0,15,Efectivo,Semanal,Tablet
+1480,Producto D,Ropa,245.97,184,Ana,31,H,Ciudad C,"Producto D,Producto D,Producto C,Producto A",25/12/23,5,5,14,1,20,Tarjeta,Mensual,Tablet
+1672,Producto C,Juguetes,264.95,155,Ana,28,M,Ciudad A,"Producto D,Producto C",3/04/23,7,2,1,0,20,Efectivo,Mensual,Móvil
+1564,Producto D,Juguetes,328.95,185,Luis,60,M,Ciudad B,"Producto C,Producto B,Producto A",29/05/23,1,1,11,0,20,Tarjeta,Mensual,Tablet
+1217,Producto B,Juguetes,241.86,194,Carlos,65,H,Ciudad A,Producto B,19/07/23,3,2,8,0,0,Transferencia,Semanal,Desktop
+1013,Producto A,Hogar,328.93,148,Carlos,36,H,Ciudad C,"Producto A,Producto D,Producto B",9/07/23,6,3,7,0,5,Tarjeta,Semanal,Tablet
+1945,Producto A,Ropa,285.74,105,Maria,20,M,Ciudad B,"Producto D,Producto D,Producto B",23/10/23,7,2,7,0,5,Transferencia,Trimestral,Móvil
+1768,Producto A,Electronica,139.86,126,Luis,65,M,Ciudad B,"Producto C,Producto D",21/01/23,1,4,13,0,15,PayPal,Semanal,Desktop
+1268,Producto C,Juguetes,146.16,121,Sofia,39,H,Ciudad C,Producto C,1/12/23,9,1,14,0,10,Transferencia,Trimestral,Móvil
+1484,Producto B,Hogar,201.51,181,Luis,57,M,Ciudad C,"Producto C,Producto C,Producto A,Producto C",2/04/23,4,2,12,0,10,Tarjeta,Trimestral,Móvil
+1984,Producto D,Hogar,367.04,108,Luis,34,M,Ciudad B,"Producto C,Producto B,Producto C",24/02/23,3,1,7,0,20,Efectivo,Semanal,Móvil
+1372,Producto D,Electronica,269.01,108,Ana,41,H,Ciudad C,"Producto D,Producto A,Producto D,Producto C",1/12/23,2,2,4,0,5,Efectivo,Mensual,Desktop
+1975,Producto D,Juguetes,125.14,160,Juan,19,H,Ciudad B,"Producto B,Producto A,Producto A,Producto D",3/06/23,2,4,1,1,10,PayPal,Mensual,Móvil
+1088,Producto B,Hogar,337.26,129,Juan,41,H,Ciudad A,Producto A,10/09/23,9,3,13,0,10,Tarjeta,Mensual,Desktop
+1545,Producto C,Hogar,465.13,185,Juan,57,H,Ciudad C,Producto B,28/09/23,4,3,17,1,5,PayPal,Mensual,Móvil
+1572,Producto A,Ropa,195.12,111,Sofia,28,M,Ciudad B,"Producto C,Producto C",22/10/23,2,2,11,0,5,Transferencia,Mensual,Móvil
+1652,Producto B,Hogar,10.08,152,Ana,22,H,Ciudad A,"Producto A,Producto B",30/12/23,8,5,14,0,5,PayPal,Semanal,Móvil
+1265,Producto B,Juguetes,150.87,151,Carlos,44,H,Ciudad B,"Producto A,Producto D,Producto D,Producto D",21/08/23,9,5,16,0,15,Transferencia,Mensual,Tablet
+1966,Producto C,Electronica,188.4,105,Maria,26,M,Ciudad A,Producto C,25/11/23,4,5,15,0,20,Transferencia,Mensual,Desktop
+1428,Producto B,Ropa,22.67,131,Ana,67,M,Ciudad B,Producto A,27/05/23,8,2,19,0,0,Efectivo,Trimestral,Tablet
+1999,Producto D,Electronica,421.05,183,Sofia,68,M,Ciudad C,"Producto B,Producto C,Producto D",8/11/23,6,3,15,1,0,Transferencia,Mensual,Desktop
+1760,Producto A,Hogar,242.13,150,Carlos,56,H,Ciudad A,Producto A,22/11/23,6,5,9,0,5,Tarjeta,Mensual,Tablet
+1694,Producto B,Electronica,405.42,152,Maria,34,H,Ciudad C,"Producto B,Producto B,Producto D",21/08/23,2,4,11,0,0,Efectivo,Semanal,Desktop
+1839,Producto D,Hogar,170.82,179,Ana,34,H,Ciudad C,Producto C,16/05/23,8,4,11,0,5,PayPal,Semanal,Desktop
+1152,Producto B,Juguetes,74.88,105,Carlos,49,H,Ciudad C,"Producto D,Producto B",6/05/23,3,2,5,1,15,Transferencia,Semanal,Desktop
+1760,Producto B,Electronica,490.66,195,Carlos,55,M,Ciudad A,"Producto D,Producto A",22/11/23,1,4,2,1,20,Efectivo,Trimestral,Móvil
+1273,Producto A,Electronica,326.81,171,Maria,45,H,Ciudad C,"Producto A,Producto D",27/12/23,9,2,9,0,5,Tarjeta,Mensual,Tablet
+1931,Producto D,Electronica,363.89,135,Luis,50,M,Ciudad C,"Producto B,Producto D,Producto B,Producto B",15/05/23,6,1,18,0,15,Transferencia,Semanal,Tablet
+1475,Producto A,Electronica,46.83,185,Juan,40,M,Ciudad C,"Producto D,Producto D",27/12/23,7,3,12,0,5,Transferencia,Semanal,Móvil
+1877,Producto B,Electronica,381.39,115,Carlos,31,M,Ciudad B,"Producto D,Producto D,Producto B",19/09/23,8,1,6,0,0,PayPal,Trimestral,Desktop
+1260,Producto D,Electronica,364.48,179,Juan,38,M,Ciudad C,"Producto D,Producto D,Producto A,Producto B",20/04/23,8,4,19,0,20,Efectivo,Trimestral,Tablet
+1801,Producto C,Juguetes,466.24,101,Carlos,52,H,Ciudad B,"Producto A,Producto C,Producto C",31/03/23,9,3,1,0,10,PayPal,Semanal,Tablet
+1902,Producto B,Ropa,436.96,121,Sofia,53,H,Ciudad A,"Producto D,Producto B",2/01/23,2,1,18,1,5,Efectivo,Mensual,Tablet
+1863,Producto D,Ropa,167.19,106,Sofia,47,M,Ciudad C,"Producto C,Producto B,Producto C",14/06/23,5,5,4,0,15,Tarjeta,Semanal,Tablet
+1597,Producto C,Hogar,150.21,126,Ana,47,H,Ciudad B,"Producto B,Producto D,Producto D",19/02/23,5,3,12,0,20,Transferencia,Mensual,Tablet
+1853,Producto D,Hogar,43.03,116,Carlos,42,H,Ciudad C,"Producto D,Producto A,Producto C",19/05/23,7,3,15,0,5,Tarjeta,Mensual,Desktop
+1487,Producto A,Hogar,162.39,146,Carlos,34,H,Ciudad C,"Producto A,Producto A,Producto C",15/09/23,2,2,6,0,0,Tarjeta,Semanal,Desktop
+1897,Producto C,Ropa,346.3,183,Sofia,51,M,Ciudad C,"Producto A,Producto D",23/10/23,5,2,7,0,15,PayPal,Mensual,Desktop
+1268,Producto D,Electronica,55.43,125,Juan,53,M,Ciudad A,"Producto A,Producto B",11/01/23,2,5,6,0,15,Tarjeta,Trimestral,Tablet
+1801,Producto B,Hogar,471.84,106,Luis,54,H,Ciudad A,"Producto A,Producto C",23/03/23,3,1,8,0,20,Tarjeta,Mensual,Desktop
+1459,Producto D,Ropa,321.18,121,Juan,27,H,Ciudad C,"Producto D,Producto D,Producto A,Producto D",22/06/23,8,4,10,0,10,Efectivo,Mensual,Tablet
+1596,Producto B,Ropa,73.32,162,Juan,67,M,Ciudad C,"Producto D,Producto B,Producto A,Producto D",27/02/23,2,3,11,0,15,Efectivo,Semanal,Desktop
+1876,Producto B,Hogar,105.91,103,Maria,48,H,Ciudad C,Producto A,20/04/23,6,2,5,1,5,Transferencia,Mensual,Móvil
+1090,Producto D,Hogar,255.2,131,Juan,29,M,Ciudad B,Producto A,27/02/23,3,4,12,0,20,Transferencia,Mensual,Móvil
+1279,Producto D,Ropa,226.56,129,Luis,53,M,Ciudad C,"Producto C,Producto B",29/06/23,3,3,7,0,5,Efectivo,Trimestral,Móvil
+1522,Producto B,Hogar,169.11,196,Maria,36,H,Ciudad C,Producto B,20/04/23,5,4,18,0,15,Transferencia,Trimestral,Tablet
+1665,Producto D,Ropa,410.64,125,Juan,65,H,Ciudad C,Producto C,8/08/23,7,2,6,0,0,PayPal,Mensual,Tablet
+1257,Producto C,Ropa,223.77,126,Sofia,21,M,Ciudad B,Producto A,25/11/23,5,3,7,1,0,Transferencia,Mensual,Tablet
+1763,Producto D,Electronica,128.8,131,Ana,19,M,Ciudad A,"Producto C,Producto B,Producto A,Producto D",15/04/23,6,4,4,1,0,Efectivo,Semanal,Tablet
+1541,Producto D,Juguetes,389.13,163,Ana,56,M,Ciudad A,"Producto A,Producto D",4/02/23,5,3,7,1,5,Efectivo,Semanal,Móvil
+1134,Producto D,Juguetes,164.71,177,Maria,35,H,Ciudad C,"Producto A,Producto C,Producto C,Producto A",8/02/23,4,1,6,0,15,Transferencia,Mensual,Tablet
+1680,Producto D,Electronica,409.48,100,Ana,51,M,Ciudad C,"Producto A,Producto A,Producto C",18/06/23,9,4,18,0,20,Transferencia,Semanal,Desktop
+1178,Producto A,Juguetes,461.06,127,Luis,48,H,Ciudad B,Producto B,5/10/23,1,3,1,1,0,PayPal,Semanal,Desktop
+1689,Producto D,Electronica,447.96,151,Juan,44,H,Ciudad A,"Producto A,Producto C,Producto C,Producto A",8/12/23,3,1,14,0,20,Tarjeta,Semanal,Desktop
+1624,Producto B,Hogar,431.08,131,Luis,48,H,Ciudad C,"Producto B,Producto C",7/10/23,3,2,2,1,0,Efectivo,Mensual,Tablet
+1264,Producto B,Hogar,389.96,170,Sofia,50,M,Ciudad B,Producto C,9/04/23,8,3,16,0,5,PayPal,Semanal,Tablet
+1751,Producto D,Electronica,65.32,164,Juan,25,M,Ciudad C,"Producto A,Producto B,Producto A",20/09/23,4,3,16,0,10,Tarjeta,Semanal,Tablet
+1738,Producto A,Hogar,200.19,145,Carlos,64,M,Ciudad A,"Producto D,Producto B,Producto C",22/03/23,2,1,10,0,15,PayPal,Semanal,Tablet
+1671,Producto B,Hogar,445.45,117,Juan,69,H,Ciudad A,Producto A,25/05/23,4,3,11,0,20,PayPal,Mensual,Móvil
+1350,Producto C,Hogar,343.4,119,Juan,37,M,Ciudad B,"Producto C,Producto B",13/03/23,6,4,15,0,20,Tarjeta,Mensual,Desktop
+1224,Producto D,Juguetes,315.11,144,Maria,39,H,Ciudad C,"Producto D,Producto C,Producto C",22/08/23,9,5,1,0,10,Transferencia,Mensual,Tablet
+1674,Producto A,Hogar,161.89,122,Ana,35,M,Ciudad B,"Producto D,Producto C",31/08/23,6,2,15,0,15,Transferencia,Mensual,Móvil
+1735,Producto D,Ropa,436.97,128,Juan,66,H,Ciudad C,"Producto B,Producto D,Producto D,Producto B",18/10/23,5,2,12,0,0,Transferencia,Semanal,Tablet
+1982,Producto C,Juguetes,289.11,161,Carlos,26,M,Ciudad C,"Producto C,Producto C",5/10/23,2,5,2,0,5,Transferencia,Semanal,Desktop
+1916,Producto C,Juguetes,290.21,101,Juan,46,M,Ciudad C,"Producto B,Producto B,Producto C,Producto B",7/11/23,8,1,7,1,10,PayPal,Semanal,Desktop
+1573,Producto D,Electronica,90.04,106,Sofia,57,H,Ciudad B,"Producto D,Producto C,Producto C",13/03/23,5,4,19,0,5,Transferencia,Trimestral,Tablet
+1748,Producto B,Hogar,211.58,111,Ana,22,H,Ciudad C,"Producto D,Producto B,Producto D,Producto C",10/08/23,2,5,12,0,20,PayPal,Mensual,Móvil
+1681,Producto B,Hogar,283.46,180,Sofia,40,M,Ciudad A,"Producto B,Producto D,Producto B,Producto D",5/01/23,9,3,16,0,0,PayPal,Semanal,Móvil
+1880,Producto C,Hogar,388.85,172,Ana,65,H,Ciudad B,Producto D,18/05/23,2,4,3,1,0,Transferencia,Semanal,Tablet
+1747,Producto C,Juguetes,496.88,184,Sofia,64,M,Ciudad B,"Producto A,Producto C,Producto B,Producto B",13/01/23,9,4,16,1,20,PayPal,Mensual,Desktop
+1442,Producto B,Ropa,373.79,143,Sofia,49,M,Ciudad C,Producto B,24/05/23,2,3,9,0,15,Efectivo,Mensual,Móvil
+1271,Producto D,Hogar,372.21,168,Juan,22,H,Ciudad C,"Producto C,Producto C",15/03/23,9,3,7,1,5,PayPal,Semanal,Móvil
+1429,Producto C,Juguetes,14.99,104,Luis,51,M,Ciudad B,Producto B,21/05/23,9,2,5,0,0,Efectivo,Trimestral,Móvil
+1867,Producto B,Hogar,434.45,160,Carlos,63,M,Ciudad C,"Producto B,Producto A",11/12/23,1,2,6,1,20,PayPal,Trimestral,Desktop
+1880,Producto A,Ropa,245.37,190,Luis,37,M,Ciudad C,"Producto D,Producto A,Producto D,Producto C",15/10/23,9,2,1,0,15,PayPal,Mensual,Móvil
+1923,Producto C,Electronica,395.58,125,Ana,63,H,Ciudad B,Producto C,30/03/23,2,3,5,0,20,Efectivo,Semanal,Desktop
+1701,Producto B,Juguetes,411.61,128,Sofia,24,H,Ciudad C,"Producto B,Producto B,Producto B",16/02/23,3,5,13,0,5,Transferencia,Mensual,Desktop
+1930,Producto A,Hogar,199.47,149,Luis,22,H,Ciudad B,"Producto C,Producto A",18/01/23,6,1,4,0,10,Efectivo,Trimestral,Móvil
+1215,Producto D,Juguetes,482.53,134,Luis,46,M,Ciudad B,"Producto D,Producto A,Producto B",28/12/23,5,4,3,0,20,Tarjeta,Semanal,Tablet
+1270,Producto A,Ropa,115.57,105,Maria,52,H,Ciudad B,"Producto C,Producto D",10/03/23,1,5,10,1,5,PayPal,Trimestral,Móvil
+1255,Producto D,Hogar,468.94,105,Carlos,61,H,Ciudad A,"Producto D,Producto A",27/12/23,9,5,15,0,15,PayPal,Semanal,Tablet
+1431,Producto C,Juguetes,131.71,147,Juan,62,H,Ciudad B,Producto C,12/02/23,7,1,5,1,5,PayPal,Semanal,Móvil
+1678,Producto D,Hogar,231.37,172,Carlos,47,M,Ciudad B,"Producto B,Producto C,Producto B",20/07/23,7,1,14,1,0,PayPal,Mensual,Desktop
+1389,Producto D,Juguetes,146.77,192,Luis,18,H,Ciudad C,"Producto B,Producto A,Producto A",3/06/23,1,4,3,0,15,Efectivo,Semanal,Tablet
+1983,Producto B,Ropa,59.32,130,Sofia,29,H,Ciudad A,Producto D,28/09/23,9,1,8,0,20,Efectivo,Semanal,Tablet
+1746,Producto A,Ropa,335.9,195,Luis,34,M,Ciudad A,"Producto A,Producto B,Producto C,Producto D",23/05/23,6,4,6,1,5,Tarjeta,Semanal,Móvil
+1949,Producto B,Hogar,10.57,183,Sofia,64,M,Ciudad C,"Producto C,Producto B,Producto B",18/08/23,6,2,17,1,15,Transferencia,Semanal,Desktop
+1989,Producto D,Ropa,421.47,108,Juan,65,M,Ciudad C,"Producto D,Producto B,Producto D,Producto A",8/01/23,4,3,14,0,10,Efectivo,Trimestral,Móvil
+1015,Producto C,Hogar,398.99,139,Carlos,22,H,Ciudad A,"Producto B,Producto C,Producto A,Producto D",9/04/23,9,5,6,0,0,PayPal,Trimestral,Tablet
+1941,Producto C,Electronica,490.03,134,Ana,58,M,Ciudad A,"Producto D,Producto A,Producto A",4/01/23,3,1,3,0,0,Transferencia,Semanal,Tablet
+1936,Producto B,Juguetes,217.16,150,Maria,56,M,Ciudad A,Producto C,30/11/23,1,4,8,0,20,Efectivo,Trimestral,Móvil
+1473,Producto A,Hogar,455.03,199,Ana,34,H,Ciudad B,"Producto A,Producto D",7/06/23,6,5,16,0,10,Transferencia,Semanal,Tablet
+1224,Producto C,Hogar,139.32,158,Carlos,38,H,Ciudad A,"Producto D,Producto D,Producto D,Producto A",21/08/23,3,4,3,1,15,Efectivo,Semanal,Tablet
+1010,Producto B,Hogar,80.12,129,Sofia,53,H,Ciudad C,Producto B,17/12/23,7,1,17,1,15,Efectivo,Mensual,Móvil
+1591,Producto B,Hogar,444.71,175,Ana,38,H,Ciudad C,Producto C,12/04/23,8,1,2,0,20,Transferencia,Semanal,Desktop
+1744,Producto A,Hogar,89.09,169,Luis,64,H,Ciudad B,"Producto A,Producto D",15/07/23,9,2,5,0,0,Tarjeta,Mensual,Tablet
+1017,Producto C,Juguetes,390.91,191,Carlos,32,H,Ciudad B,"Producto A,Producto D",30/08/23,7,3,17,0,15,Tarjeta,Trimestral,Móvil
+1837,Producto C,Juguetes,73.07,144,Carlos,54,M,Ciudad B,"Producto B,Producto B",7/03/23,5,2,4,0,0,PayPal,Mensual,Tablet
+1333,Producto A,Hogar,247.26,139,Ana,30,M,Ciudad B,"Producto D,Producto D,Producto B,Producto B",21/10/23,8,4,10,0,15,Tarjeta,Semanal,Desktop
+1326,Producto C,Electronica,406.1,109,Sofia,46,H,Ciudad A,"Producto C,Producto C,Producto B,Producto B",24/04/23,8,1,19,0,20,Tarjeta,Mensual,Móvil
+1575,Producto C,Ropa,37.0,162,Sofia,18,H,Ciudad A,Producto C,18/08/23,8,3,8,0,0,Transferencia,Semanal,Móvil
+1093,Producto B,Hogar,303.1,127,Ana,32,H,Ciudad C,"Producto B,Producto C",22/05/23,8,4,6,0,0,Transferencia,Trimestral,Tablet
+1644,Producto B,Hogar,382.6,162,Luis,39,H,Ciudad B,"Producto A,Producto A,Producto C,Producto A",11/04/23,3,5,7,0,5,Efectivo,Mensual,Móvil
+1228,Producto A,Ropa,368.07,192,Sofia,58,M,Ciudad C,"Producto C,Producto D",9/03/23,7,2,7,0,5,Tarjeta,Semanal,Móvil
+1866,Producto B,Ropa,336.79,121,Carlos,31,H,Ciudad C,"Producto A,Producto D,Producto D",3/04/23,6,5,8,0,5,Tarjeta,Semanal,Móvil
+1694,Producto C,Hogar,270.89,158,Ana,24,H,Ciudad B,"Producto C,Producto C,Producto C",5/12/23,9,5,11,0,15,Transferencia,Semanal,Desktop
+1650,Producto D,Juguetes,51.3,175,Luis,28,H,Ciudad C,"Producto A,Producto B,Producto B",2/05/23,5,2,19,0,0,PayPal,Semanal,Desktop
+1834,Producto B,Electronica,111.21,178,Juan,25,M,Ciudad A,Producto D,3/07/23,5,4,10,1,10,Transferencia,Mensual,Desktop
+1627,Producto A,Ropa,117.77,194,Luis,29,M,Ciudad A,"Producto D,Producto B",7/11/23,8,2,16,0,10,Transferencia,Trimestral,Desktop
+1080,Producto A,Ropa,384.19,141,Ana,56,M,Ciudad A,Producto C,11/10/23,3,3,1,1,5,Transferencia,Trimestral,Móvil
+1920,Producto A,Juguetes,410.48,135,Sofia,67,H,Ciudad B,Producto D,1/12/23,2,2,4,1,10,Efectivo,Mensual,Móvil
+1547,Producto A,Electronica,220.08,124,Ana,20,H,Ciudad A,Producto C,6/06/23,7,1,16,0,5,Transferencia,Mensual,Desktop
+1990,Producto C,Juguetes,178.95,149,Maria,21,M,Ciudad B,"Producto C,Producto B,Producto B,Producto B",10/06/23,8,1,2,0,5,PayPal,Semanal,Desktop
+1503,Producto D,Electronica,187.89,106,Sofia,62,M,Ciudad B,"Producto D,Producto B,Producto B,Producto B",17/11/23,6,4,19,0,0,PayPal,Semanal,Móvil
+1761,Producto B,Electronica,397.14,147,Maria,46,H,Ciudad B,"Producto C,Producto D,Producto A,Producto D",5/06/23,3,1,12,1,0,Efectivo,Mensual,Desktop
+1677,Producto C,Hogar,24.42,104,Maria,27,M,Ciudad C,"Producto C,Producto B,Producto D,Producto C",21/04/23,5,1,2,0,10,Efectivo,Mensual,Desktop
+1292,Producto B,Ropa,48.19,114,Carlos,30,H,Ciudad B,Producto A,8/08/23,3,1,6,0,15,Transferencia,Mensual,Móvil
+1524,Producto A,Ropa,85.97,166,Juan,67,M,Ciudad B,"Producto A,Producto A,Producto C,Producto D",11/08/23,4,3,8,0,10,Transferencia,Semanal,Tablet
+1142,Producto D,Ropa,117.58,175,Ana,33,M,Ciudad A,"Producto D,Producto D,Producto A,Producto D",14/07/23,9,1,15,0,5,PayPal,Semanal,Tablet
+1125,Producto C,Electronica,204.93,153,Juan,68,M,Ciudad A,"Producto C,Producto D,Producto A",4/04/23,4,4,14,0,10,Tarjeta,Semanal,Desktop
+1838,Producto D,Hogar,67.65,147,Sofia,32,M,Ciudad A,Producto B,18/12/23,1,1,11,0,10,Efectivo,Trimestral,Móvil
+1416,Producto A,Juguetes,269.37,180,Luis,69,M,Ciudad B,"Producto D,Producto A,Producto A",7/06/23,9,1,1,0,0,Transferencia,Mensual,Desktop
+1198,Producto B,Juguetes,402.46,137,Carlos,68,H,Ciudad C,"Producto C,Producto A",1/02/23,6,4,4,0,10,Transferencia,Trimestral,Móvil
+1559,Producto D,Hogar,224.54,180,Ana,49,M,Ciudad C,"Producto A,Producto B",16/09/23,6,4,11,0,5,Transferencia,Semanal,Móvil
+1023,Producto C,Electronica,98.74,174,Luis,19,H,Ciudad C,"Producto A,Producto A,Producto B",10/07/23,7,4,18,0,10,PayPal,Mensual,Desktop
+1199,Producto B,Juguetes,307.97,120,Carlos,26,M,Ciudad A,"Producto B,Producto A,Producto A,Producto A",8/03/23,1,5,19,0,15,PayPal,Mensual,Desktop
+1293,Producto A,Juguetes,10.07,106,Carlos,66,M,Ciudad B,"Producto A,Producto B,Producto B",2/06/23,5,2,13,0,15,PayPal,Mensual,Tablet
+1277,Producto A,Ropa,76.06,170,Ana,59,H,Ciudad A,Producto C,11/12/23,9,5,7,0,15,Tarjeta,Semanal,Desktop
+1586,Producto D,Hogar,175.46,130,Juan,29,H,Ciudad B,"Producto C,Producto A,Producto A",25/07/23,3,3,9,0,0,Tarjeta,Trimestral,Desktop
+1979,Producto C,Juguetes,22.48,164,Juan,24,M,Ciudad C,Producto B,23/03/23,6,4,13,0,10,PayPal,Trimestral,Desktop
+1835,Producto A,Ropa,272.91,136,Luis,24,M,Ciudad B,"Producto C,Producto A,Producto B,Producto B",2/12/23,3,3,2,0,15,Efectivo,Semanal,Móvil
+1649,Producto C,Ropa,224.47,181,Juan,23,M,Ciudad C,"Producto A,Producto B",2/08/23,6,4,3,0,0,Tarjeta,Trimestral,Móvil
+1031,Producto B,Electronica,320.28,126,Luis,68,M,Ciudad B,"Producto B,Producto B",12/02/23,7,4,7,0,0,Efectivo,Semanal,Móvil
+1283,Producto C,Electronica,136.93,148,Juan,39,M,Ciudad A,"Producto C,Producto C,Producto C,Producto D",30/07/23,9,3,9,0,5,PayPal,Mensual,Desktop
+1910,Producto C,Electronica,156.01,173,Juan,47,M,Ciudad A,"Producto D,Producto A",29/08/23,2,5,8,0,5,Tarjeta,Semanal,Desktop
+1631,Producto A,Hogar,392.4,106,Juan,49,M,Ciudad B,"Producto A,Producto A,Producto B",31/10/23,3,5,2,0,10,Efectivo,Trimestral,Tablet
+1296,Producto D,Juguetes,383.85,146,Ana,49,M,Ciudad A,Producto D,22/02/23,1,2,19,0,15,Tarjeta,Semanal,Móvil
+1664,Producto B,Electronica,84.99,152,Juan,41,H,Ciudad B,"Producto C,Producto A,Producto C,Producto C",27/02/23,1,3,2,0,5,Efectivo,Mensual,Desktop
+1248,Producto B,Electronica,167.53,145,Luis,67,M,Ciudad B,"Producto C,Producto A",14/01/23,9,4,15,0,15,Tarjeta,Mensual,Móvil
+1567,Producto A,Juguetes,260.69,133,Ana,20,M,Ciudad C,"Producto C,Producto D,Producto C,Producto B",20/05/23,9,2,19,0,15,Tarjeta,Semanal,Desktop
+1832,Producto B,Juguetes,37.82,103,Sofia,35,M,Ciudad B,"Producto D,Producto D,Producto C,Producto D",16/01/23,3,5,2,1,15,PayPal,Trimestral,Tablet
+1285,Producto C,Electronica,341.95,189,Ana,32,M,Ciudad A,Producto D,13/08/23,6,1,17,0,20,Tarjeta,Mensual,Móvil
+1199,Producto C,Juguetes,273.14,199,Maria,25,M,Ciudad A,"Producto C,Producto D",20/01/23,7,3,10,0,10,Transferencia,Trimestral,Desktop
+1194,Producto A,Hogar,229.23,124,Carlos,31,M,Ciudad A,"Producto D,Producto A",28/08/23,5,3,7,0,15,Tarjeta,Semanal,Móvil
+1222,Producto A,Ropa,273.29,198,Luis,49,M,Ciudad C,Producto C,3/03/23,3,3,5,0,5,PayPal,Trimestral,Desktop
+1524,Producto D,Juguetes,34.11,185,Juan,54,M,Ciudad C,"Producto C,Producto D",12/05/23,6,3,2,0,5,Efectivo,Semanal,Móvil
+1068,Producto C,Juguetes,273.45,165,Luis,69,H,Ciudad C,Producto A,10/01/23,9,5,10,1,10,Efectivo,Trimestral,Tablet
+1093,Producto D,Juguetes,184.24,183,Sofia,32,H,Ciudad B,"Producto C,Producto A,Producto D",23/05/23,5,1,19,1,10,Tarjeta,Trimestral,Tablet
+1879,Producto C,Ropa,235.18,183,Maria,34,M,Ciudad A,Producto A,6/06/23,4,3,5,0,20,PayPal,Semanal,Tablet
+1826,Producto B,Electronica,77.07,178,Juan,69,H,Ciudad A,"Producto D,Producto A",2/01/23,7,1,5,0,5,Efectivo,Mensual,Tablet
+1247,Producto C,Juguetes,51.74,180,Ana,37,M,Ciudad A,"Producto D,Producto C",27/07/23,2,2,16,0,20,Efectivo,Trimestral,Tablet
+1708,Producto C,Electronica,423.97,185,Luis,46,M,Ciudad C,Producto A,5/09/23,8,4,11,0,0,Efectivo,Trimestral,Tablet
+1608,Producto C,Hogar,491.82,138,Sofia,26,M,Ciudad A,"Producto C,Producto C,Producto A",27/03/23,6,3,9,0,10,PayPal,Semanal,Tablet
+1154,Producto B,Juguetes,497.93,122,Sofia,47,H,Ciudad B,"Producto B,Producto A,Producto B",20/11/23,9,2,15,1,15,Tarjeta,Trimestral,Tablet
+1606,Producto C,Juguetes,183.82,182,Ana,64,M,Ciudad C,"Producto A,Producto C",20/01/23,2,3,17,0,0,Efectivo,Mensual,Desktop
+1350,Producto D,Electronica,112.28,124,Sofia,33,M,Ciudad A,Producto B,27/08/23,5,3,13,0,0,PayPal,Mensual,Tablet
+1626,Producto C,Juguetes,395.9,107,Carlos,62,H,Ciudad C,"Producto D,Producto D,Producto D",8/04/23,1,1,19,0,20,Efectivo,Semanal,Desktop
+1079,Producto B,Juguetes,485.94,128,Ana,23,M,Ciudad A,Producto B,11/06/23,4,3,8,0,0,Efectivo,Semanal,Móvil
+1923,Producto B,Hogar,11.99,140,Carlos,56,H,Ciudad A,"Producto B,Producto D",20/05/23,8,3,1,0,10,Efectivo,Mensual,Desktop
+1249,Producto B,Juguetes,214.31,151,Juan,43,H,Ciudad C,Producto D,21/08/23,8,3,6,1,10,Efectivo,Semanal,Tablet
+1574,Producto A,Juguetes,250.68,143,Maria,28,H,Ciudad C,"Producto B,Producto A",11/11/23,2,1,5,0,15,PayPal,Trimestral,Móvil
+1708,Producto C,Hogar,178.4,141,Carlos,53,M,Ciudad A,"Producto B,Producto D,Producto A",31/10/23,7,3,9,1,5,Efectivo,Semanal,Móvil
+1963,Producto B,Electronica,498.59,171,Maria,62,H,Ciudad C,"Producto C,Producto A,Producto D",24/01/23,8,2,6,0,10,Transferencia,Trimestral,Móvil
+1321,Producto C,Hogar,84.16,126,Sofia,38,H,Ciudad C,Producto A,29/04/23,5,4,18,0,15,Transferencia,Mensual,Desktop
+1085,Producto A,Juguetes,418.23,126,Ana,54,H,Ciudad C,"Producto D,Producto A",16/07/23,6,1,9,0,20,Transferencia,Trimestral,Desktop
+1654,Producto A,Juguetes,453.96,174,Carlos,32,H,Ciudad B,"Producto D,Producto B,Producto B",24/11/23,6,2,13,1,20,Efectivo,Mensual,Móvil
+1616,Producto C,Ropa,411.32,129,Juan,28,M,Ciudad A,Producto C,29/07/23,6,2,9,0,15,PayPal,Mensual,Desktop
+1486,Producto C,Ropa,428.65,109,Ana,18,H,Ciudad A,"Producto B,Producto B,Producto C",13/04/23,1,3,2,0,10,Transferencia,Semanal,Tablet
+1818,Producto A,Ropa,177.43,175,Ana,34,H,Ciudad B,"Producto B,Producto D,Producto A,Producto C",18/01/23,7,2,16,0,20,Efectivo,Trimestral,Tablet
+1213,Producto D,Ropa,468.25,132,Sofia,54,M,Ciudad B,"Producto C,Producto D,Producto A,Producto C",10/12/23,2,3,11,0,5,Efectivo,Semanal,Tablet
+1612,Producto C,Hogar,146.87,184,Carlos,49,H,Ciudad C,"Producto D,Producto C,Producto A",2/01/23,2,5,1,0,15,Efectivo,Semanal,Desktop
+1270,Producto A,Electronica,79.29,172,Luis,54,H,Ciudad A,"Producto C,Producto A",6/09/23,6,4,4,1,0,Transferencia,Mensual,Desktop
+1367,Producto C,Ropa,156.19,163,Luis,47,H,Ciudad B,"Producto D,Producto C",20/04/23,9,5,5,0,15,Transferencia,Trimestral,Desktop
+1018,Producto C,Ropa,355.79,174,Ana,63,M,Ciudad A,"Producto A,Producto C,Producto B,Producto B",3/09/23,7,2,14,0,10,Tarjeta,Semanal,Desktop
+1846,Producto C,Ropa,267.14,172,Juan,66,M,Ciudad C,"Producto D,Producto A",24/05/23,3,1,16,0,20,Transferencia,Semanal,Móvil
+1604,Producto B,Electronica,438.89,189,Juan,60,M,Ciudad B,"Producto A,Producto D",20/01/23,3,2,19,0,0,Efectivo,Semanal,Desktop
+1767,Producto B,Juguetes,31.68,163,Ana,64,M,Ciudad A,"Producto C,Producto C,Producto B",24/10/23,2,3,12,1,5,Tarjeta,Trimestral,Móvil
+1654,Producto D,Juguetes,409.67,137,Ana,34,M,Ciudad C,"Producto C,Producto C,Producto D",4/01/23,2,3,4,0,0,PayPal,Semanal,Móvil
+1623,Producto D,Ropa,313.13,178,Ana,63,H,Ciudad C,"Producto B,Producto D,Producto B",20/06/23,8,5,3,1,5,PayPal,Semanal,Desktop
+1286,Producto D,Hogar,141.04,147,Luis,36,H,Ciudad B,"Producto D,Producto B",18/02/23,4,5,12,0,5,Transferencia,Semanal,Móvil
+1763,Producto A,Ropa,285.29,173,Ana,22,H,Ciudad C,"Producto A,Producto A,Producto B",11/08/23,2,2,13,0,15,Tarjeta,Mensual,Desktop
+1059,Producto A,Electronica,479.1,183,Carlos,48,M,Ciudad A,"Producto C,Producto B",21/06/23,7,1,12,0,5,Efectivo,Trimestral,Desktop
+1794,Producto C,Juguetes,269.64,178,Carlos,50,H,Ciudad B,Producto C,13/03/23,8,1,19,0,10,Transferencia,Semanal,Móvil
+1685,Producto B,Hogar,163.12,134,Carlos,66,H,Ciudad C,"Producto B,Producto C,Producto A",31/01/23,9,1,11,0,15,Tarjeta,Semanal,Tablet
+1526,Producto A,Hogar,445.31,159,Sofia,22,H,Ciudad C,"Producto A,Producto D,Producto D",7/03/23,5,5,10,0,10,Efectivo,Mensual,Móvil
+1555,Producto C,Juguetes,61.15,113,Carlos,54,M,Ciudad A,"Producto C,Producto A,Producto B",24/06/23,8,3,5,0,0,Tarjeta,Semanal,Desktop
+1979,Producto C,Ropa,229.73,184,Carlos,40,H,Ciudad A,"Producto B,Producto C",3/11/23,8,5,11,0,10,Tarjeta,Trimestral,Tablet
+1175,Producto C,Electronica,290.81,178,Maria,26,H,Ciudad B,Producto D,17/02/23,8,1,9,0,5,Efectivo,Trimestral,Tablet
+1438,Producto D,Hogar,148.54,170,Juan,29,H,Ciudad B,"Producto B,Producto D",6/07/23,9,4,3,0,0,Efectivo,Mensual,Tablet
+1914,Producto B,Ropa,119.44,134,Juan,55,H,Ciudad B,"Producto D,Producto A",28/12/23,1,4,2,0,10,PayPal,Semanal,Tablet
+1601,Producto D,Electronica,334.65,193,Juan,55,M,Ciudad C,"Producto D,Producto C",2/03/23,8,5,14,0,5,Efectivo,Semanal,Desktop
+1515,Producto C,Juguetes,412.82,114,Luis,39,M,Ciudad A,"Producto D,Producto B,Producto D,Producto B",23/08/23,9,5,15,0,20,PayPal,Mensual,Móvil
+1810,Producto C,Ropa,268.92,196,Ana,63,M,Ciudad C,Producto D,17/08/23,4,3,12,0,15,Efectivo,Mensual,Desktop
+1883,Producto B,Juguetes,258.32,105,Sofia,24,H,Ciudad A,"Producto A,Producto A,Producto B,Producto B",3/08/23,7,5,7,0,0,Efectivo,Semanal,Móvil
+1876,Producto B,Hogar,126.86,161,Carlos,52,M,Ciudad C,Producto C,29/06/23,2,2,3,0,5,Transferencia,Mensual,Tablet
+1283,Producto C,Ropa,153.33,125,Juan,51,M,Ciudad C,"Producto C,Producto C,Producto B",23/12/23,9,1,16,0,15,Efectivo,Mensual,Móvil
+1757,Producto D,Electronica,393.28,180,Sofia,38,H,Ciudad C,Producto B,10/12/23,1,5,19,1,0,Transferencia,Trimestral,Desktop
+1608,Producto B,Juguetes,40.95,119,Luis,57,H,Ciudad A,"Producto A,Producto C,Producto D,Producto C",4/04/23,4,3,7,1,10,Efectivo,Trimestral,Móvil
+1628,Producto D,Ropa,149.32,146,Ana,24,H,Ciudad A,"Producto B,Producto C,Producto A",8/11/23,2,4,17,1,15,Tarjeta,Mensual,Desktop
+1620,Producto A,Hogar,341.83,109,Ana,33,H,Ciudad A,"Producto D,Producto B,Producto B,Producto A",21/12/23,1,1,15,0,15,Tarjeta,Trimestral,Desktop
+1127,Producto C,Hogar,391.09,147,Carlos,40,M,Ciudad A,Producto C,31/08/23,6,3,13,0,5,PayPal,Trimestral,Móvil
+1610,Producto A,Electronica,354.6,179,Sofia,22,H,Ciudad C,"Producto D,Producto A,Producto C",5/10/23,6,2,18,0,15,PayPal,Mensual,Desktop
+1552,Producto B,Hogar,468.74,153,Ana,31,H,Ciudad A,Producto C,7/10/23,9,2,4,1,5,Tarjeta,Mensual,Desktop
+1309,Producto C,Ropa,259.67,148,Maria,45,H,Ciudad C,"Producto D,Producto D",20/12/23,3,1,3,0,0,Transferencia,Semanal,Desktop
+1870,Producto A,Electronica,23.47,101,Luis,54,H,Ciudad C,"Producto A,Producto D,Producto B,Producto B",25/06/23,8,4,14,0,5,Efectivo,Mensual,Móvil
+1611,Producto A,Electronica,425.41,158,Carlos,69,M,Ciudad B,"Producto C,Producto B,Producto B",27/12/23,5,4,7,1,10,Transferencia,Semanal,Desktop
+1010,Producto B,Juguetes,140.56,120,Carlos,27,H,Ciudad C,"Producto B,Producto C,Producto D",3/03/23,1,2,7,0,0,Tarjeta,Semanal,Tablet
+1427,Producto D,Electronica,424.59,115,Maria,44,H,Ciudad C,"Producto C,Producto D,Producto B,Producto A",24/10/23,8,2,18,0,0,Tarjeta,Semanal,Desktop
+1224,Producto D,Ropa,293.18,191,Ana,30,H,Ciudad A,Producto C,2/08/23,4,2,18,0,20,PayPal,Semanal,Desktop
+1758,Producto A,Hogar,267.54,172,Luis,31,H,Ciudad B,"Producto D,Producto B",23/06/23,1,2,2,0,5,Tarjeta,Mensual,Desktop
+1202,Producto B,Ropa,240.93,122,Juan,38,H,Ciudad C,Producto D,4/08/23,8,4,11,0,20,PayPal,Trimestral,Tablet
+1671,Producto C,Electronica,409.57,191,Juan,63,M,Ciudad B,"Producto A,Producto B,Producto C",25/01/23,9,1,6,0,20,Transferencia,Trimestral,Desktop
+1831,Producto C,Juguetes,70.23,101,Luis,34,H,Ciudad B,Producto C,17/05/23,2,1,8,0,0,Transferencia,Trimestral,Tablet
+1413,Producto A,Ropa,63.94,109,Maria,29,M,Ciudad C,"Producto C,Producto A",30/01/23,9,2,12,0,10,Transferencia,Semanal,Desktop
+1480,Producto B,Juguetes,460.93,125,Juan,65,H,Ciudad C,"Producto C,Producto A,Producto D,Producto B",11/10/23,8,4,17,0,15,Tarjeta,Mensual,Tablet
+1741,Producto D,Juguetes,202.23,174,Juan,35,M,Ciudad A,Producto B,17/05/23,9,1,14,0,5,PayPal,Semanal,Tablet
+1930,Producto C,Hogar,488.48,156,Carlos,21,M,Ciudad C,Producto B,28/02/23,6,1,10,0,0,Efectivo,Trimestral,Móvil
+1833,Producto A,Electronica,404.17,197,Sofia,56,H,Ciudad A,Producto D,25/04/23,9,3,17,0,15,Transferencia,Mensual,Desktop
+1365,Producto A,Electronica,340.3,161,Juan,19,M,Ciudad C,"Producto D,Producto D,Producto A",30/06/23,4,3,10,0,5,Tarjeta,Semanal,Móvil
+1131,Producto A,Electronica,498.34,165,Sofia,38,M,Ciudad B,"Producto C,Producto C,Producto C",1/01/23,7,1,19,1,0,Transferencia,Mensual,Móvil
+1654,Producto B,Hogar,284.95,155,Luis,26,M,Ciudad C,"Producto A,Producto A,Producto D,Producto D",20/09/23,5,1,19,0,5,Efectivo,Semanal,Desktop
+1261,Producto A,Ropa,54.88,154,Maria,35,M,Ciudad C,"Producto B,Producto B",24/07/23,4,3,12,0,10,Efectivo,Trimestral,Desktop
+1088,Producto B,Electronica,264.1,192,Maria,26,H,Ciudad A,"Producto A,Producto A,Producto A,Producto D",4/10/23,8,5,6,0,20,Transferencia,Mensual,Tablet
+1036,Producto B,Juguetes,205.35,117,Carlos,43,H,Ciudad C,Producto C,23/09/23,8,4,3,0,5,Efectivo,Trimestral,Tablet
+1177,Producto D,Hogar,272.71,160,Maria,34,M,Ciudad B,"Producto B,Producto B",17/11/23,7,5,6,0,5,Transferencia,Semanal,Tablet
+1470,Producto D,Ropa,219.88,107,Sofia,35,H,Ciudad A,"Producto A,Producto A,Producto C",18/02/23,8,1,9,0,10,Transferencia,Trimestral,Tablet
+1940,Producto D,Ropa,339.66,185,Carlos,19,H,Ciudad A,"Producto B,Producto A,Producto A",30/01/23,1,3,7,0,15,Tarjeta,Trimestral,Tablet
+1418,Producto C,Ropa,39.54,136,Maria,69,H,Ciudad B,"Producto B,Producto C,Producto D",7/01/23,4,2,4,0,0,Tarjeta,Trimestral,Tablet
+1991,Producto A,Ropa,322.74,128,Maria,60,M,Ciudad A,"Producto A,Producto A,Producto B",6/04/23,8,3,8,0,20,Tarjeta,Mensual,Desktop
+1262,Producto C,Ropa,302.9,187,Luis,49,H,Ciudad C,"Producto C,Producto A,Producto D,Producto C",11/08/23,2,5,14,0,0,Efectivo,Semanal,Tablet
+1204,Producto B,Juguetes,456.78,175,Juan,45,H,Ciudad B,"Producto C,Producto C",3/03/23,2,3,6,0,5,Transferencia,Semanal,Tablet
+1245,Producto D,Electronica,265.71,199,Juan,25,H,Ciudad C,Producto A,4/12/23,3,3,1,0,10,Tarjeta,Mensual,Tablet
+1484,Producto A,Hogar,18.0,145,Luis,65,H,Ciudad B,"Producto D,Producto C",24/02/23,1,5,17,0,20,Transferencia,Mensual,Tablet
+1901,Producto A,Ropa,207.81,181,Maria,60,H,Ciudad B,Producto C,13/02/23,6,1,17,0,15,PayPal,Trimestral,Desktop
+1071,Producto B,Juguetes,416.58,148,Maria,60,M,Ciudad B,"Producto B,Producto D,Producto C",4/10/23,7,4,13,0,20,Transferencia,Mensual,Tablet
+1167,Producto A,Electronica,34.41,154,Juan,33,M,Ciudad A,"Producto B,Producto C,Producto B",19/04/23,3,4,15,0,10,Transferencia,Trimestral,Móvil
+1146,Producto A,Electronica,186.74,121,Maria,34,M,Ciudad C,Producto C,9/06/23,9,4,8,1,10,Efectivo,Semanal,Móvil
+1350,Producto D,Ropa,291.7,103,Luis,51,H,Ciudad C,"Producto B,Producto C,Producto B",20/03/23,1,1,18,0,0,Efectivo,Trimestral,Móvil
+1732,Producto C,Electronica,400.07,193,Ana,23,M,Ciudad A,"Producto A,Producto B",31/07/23,6,4,7,0,20,Transferencia,Trimestral,Desktop
+1091,Producto C,Hogar,93.77,178,Maria,54,M,Ciudad A,"Producto A,Producto B",12/02/23,8,4,18,1,5,Tarjeta,Semanal,Tablet
+1994,Producto A,Ropa,209.93,115,Carlos,56,H,Ciudad B,"Producto A,Producto D,Producto A",1/05/23,6,3,9,0,5,Tarjeta,Mensual,Móvil
+1626,Producto B,Juguetes,223.13,172,Ana,23,H,Ciudad A,Producto C,8/06/23,6,4,5,0,15,Efectivo,Semanal,Desktop
+1529,Producto B,Hogar,73.97,197,Maria,57,M,Ciudad A,"Producto D,Producto A,Producto D,Producto C",16/01/23,5,2,7,0,0,PayPal,Trimestral,Tablet
+1196,Producto B,Juguetes,148.28,111,Ana,58,H,Ciudad C,"Producto D,Producto C,Producto A",27/08/23,6,1,9,0,10,Tarjeta,Trimestral,Tablet
+1977,Producto B,Ropa,15.54,190,Carlos,41,M,Ciudad A,"Producto A,Producto C",3/07/23,2,4,10,0,5,PayPal,Mensual,Desktop
+1782,Producto D,Ropa,446.22,158,Ana,46,M,Ciudad A,"Producto C,Producto D,Producto C",20/08/23,6,5,9,0,0,Transferencia,Semanal,Desktop
+1782,Producto A,Ropa,450.69,117,Sofia,43,H,Ciudad B,"Producto D,Producto A",13/06/23,2,2,6,1,15,Transferencia,Mensual,Desktop
+1289,Producto D,Electronica,330.55,136,Juan,62,H,Ciudad A,"Producto A,Producto B",1/10/23,4,5,5,0,20,PayPal,Mensual,Tablet
+1084,Producto A,Electronica,374.52,179,Luis,46,M,Ciudad A,"Producto A,Producto B",20/08/23,8,1,4,0,0,Efectivo,Trimestral,Móvil
+1828,Producto A,Ropa,102.48,135,Maria,66,M,Ciudad C,"Producto B,Producto A,Producto A",25/02/23,8,1,1,0,0,PayPal,Mensual,Tablet
+1257,Producto D,Electronica,107.31,158,Maria,21,M,Ciudad C,"Producto D,Producto D,Producto D,Producto D",16/10/23,9,5,14,0,15,Transferencia,Semanal,Tablet
+1364,Producto A,Electronica,285.55,185,Carlos,67,M,Ciudad C,Producto C,3/09/23,5,1,13,0,15,Efectivo,Semanal,Tablet
+1478,Producto B,Ropa,169.39,159,Juan,44,H,Ciudad B,"Producto A,Producto B",22/10/23,8,4,17,0,0,PayPal,Mensual,Tablet
+1900,Producto C,Ropa,323.96,145,Juan,24,M,Ciudad A,Producto A,30/08/23,5,4,15,0,5,PayPal,Semanal,Móvil
+1547,Producto C,Juguetes,314.66,109,Maria,67,M,Ciudad B,Producto B,2/02/23,6,5,16,1,10,Efectivo,Trimestral,Desktop
+1937,Producto C,Juguetes,43.87,111,Maria,63,H,Ciudad A,Producto C,15/12/23,5,1,10,0,5,Tarjeta,Trimestral,Tablet
+1221,Producto B,Ropa,356.46,128,Carlos,52,H,Ciudad A,"Producto D,Producto C",29/09/23,1,4,13,1,20,Transferencia,Mensual,Desktop
+1766,Producto C,Ropa,283.48,148,Carlos,39,H,Ciudad C,"Producto A,Producto C",20/06/23,8,5,5,1,20,Efectivo,Mensual,Móvil
+1053,Producto D,Electronica,474.58,140,Carlos,19,M,Ciudad A,Producto B,21/07/23,4,4,7,0,10,PayPal,Mensual,Tablet
+1579,Producto D,Ropa,152.87,162,Maria,67,H,Ciudad C,"Producto A,Producto B,Producto A",9/12/23,8,4,11,0,0,Efectivo,Trimestral,Tablet
+1594,Producto B,Hogar,37.64,121,Luis,33,H,Ciudad B,"Producto C,Producto D,Producto A",13/09/23,8,3,9,1,15,Transferencia,Mensual,Móvil
+1215,Producto B,Juguetes,76.22,194,Ana,24,M,Ciudad C,Producto C,28/10/23,1,4,11,0,15,Transferencia,Trimestral,Tablet
+1420,Producto C,Juguetes,239.84,163,Luis,40,H,Ciudad A,"Producto B,Producto A,Producto A",6/06/23,7,3,7,0,20,Tarjeta,Mensual,Tablet
+1291,Producto D,Electronica,173.05,132,Luis,49,M,Ciudad A,"Producto A,Producto B,Producto A",4/08/23,1,1,12,0,15,Efectivo,Semanal,Móvil
+1203,Producto A,Ropa,62.41,186,Maria,32,H,Ciudad C,"Producto C,Producto B,Producto C",19/09/23,9,2,3,0,10,PayPal,Trimestral,Desktop
+1354,Producto A,Ropa,476.88,188,Luis,51,M,Ciudad B,"Producto A,Producto B,Producto A",18/01/23,4,1,3,0,5,PayPal,Trimestral,Desktop
+1291,Producto D,Electronica,222.35,148,Sofia,56,H,Ciudad A,"Producto A,Producto B,Producto C,Producto A",11/08/23,2,2,19,1,0,Efectivo,Semanal,Desktop
+1224,Producto C,Ropa,286.13,125,Maria,43,H,Ciudad B,Producto C,17/09/23,8,4,19,1,15,Efectivo,Semanal,Desktop
+1006,Producto C,Ropa,27.92,100,Juan,58,M,Ciudad B,"Producto B,Producto C",28/07/23,8,1,13,0,20,Tarjeta,Trimestral,Desktop
+1434,Producto A,Juguetes,147.42,157,Carlos,28,H,Ciudad A,"Producto D,Producto D",29/11/23,3,3,16,0,10,PayPal,Trimestral,Desktop
+1645,Producto A,Juguetes,177.49,122,Maria,28,H,Ciudad A,"Producto C,Producto A,Producto A,Producto B",17/03/23,2,1,3,0,0,Efectivo,Mensual,Desktop
+1342,Producto D,Hogar,258.49,108,Juan,20,M,Ciudad A,Producto A,1/11/23,4,5,5,0,10,Efectivo,Semanal,Desktop
+1064,Producto D,Ropa,157.75,105,Luis,44,M,Ciudad C,"Producto C,Producto D,Producto C,Producto C",15/09/23,8,4,17,0,20,Efectivo,Trimestral,Desktop
+1716,Producto C,Ropa,182.7,167,Maria,30,M,Ciudad B,"Producto B,Producto A",25/12/23,2,4,17,0,10,PayPal,Trimestral,Tablet
+1059,Producto C,Hogar,389.01,119,Maria,48,H,Ciudad B,Producto C,11/11/23,1,1,13,1,0,Efectivo,Semanal,Móvil
+1013,Producto D,Hogar,109.7,140,Maria,66,M,Ciudad A,"Producto C,Producto D,Producto A",24/11/23,3,3,6,0,0,PayPal,Trimestral,Desktop
+1166,Producto D,Juguetes,348.15,162,Maria,25,M,Ciudad C,"Producto C,Producto C",1/03/23,5,4,15,0,5,PayPal,Trimestral,Desktop
+1548,Producto B,Ropa,404.91,123,Maria,46,M,Ciudad C,"Producto C,Producto B,Producto D",18/04/23,8,2,11,0,0,PayPal,Trimestral,Tablet
+1615,Producto B,Ropa,141.18,130,Sofia,51,H,Ciudad B,"Producto B,Producto C",23/02/23,5,1,4,0,0,Efectivo,Trimestral,Tablet
+1648,Producto A,Hogar,267.63,194,Maria,22,M,Ciudad A,"Producto A,Producto D,Producto D",7/11/23,8,2,12,1,20,Transferencia,Trimestral,Desktop
+1332,Producto C,Juguetes,378.34,134,Luis,54,M,Ciudad B,"Producto B,Producto A",1/09/23,4,2,6,0,15,Efectivo,Semanal,Desktop
+1894,Producto B,Juguetes,270.35,198,Juan,48,M,Ciudad A,Producto A,25/04/23,6,3,5,0,20,Transferencia,Mensual,Tablet
+1773,Producto C,Electronica,499.63,143,Maria,46,H,Ciudad A,"Producto C,Producto A,Producto B",10/01/23,1,3,17,0,5,Efectivo,Mensual,Móvil
+1379,Producto D,Juguetes,195.31,131,Luis,48,H,Ciudad B,Producto B,23/09/23,1,1,17,0,10,Transferencia,Mensual,Móvil
+1239,Producto D,Ropa,169.5,128,Carlos,58,M,Ciudad A,"Producto D,Producto D,Producto D,Producto C",6/06/23,5,4,3,0,10,Tarjeta,Mensual,Tablet
+1392,Producto D,Hogar,149.62,156,Maria,44,H,Ciudad B,"Producto D,Producto A",8/12/23,9,3,5,1,15,PayPal,Trimestral,Desktop
+1732,Producto D,Juguetes,22.82,169,Sofia,50,M,Ciudad A,"Producto C,Producto C,Producto D",10/08/23,3,1,6,1,5,Tarjeta,Mensual,Móvil
+1662,Producto B,Juguetes,430.08,191,Juan,63,M,Ciudad A,Producto A,1/01/24,5,2,15,0,10,PayPal,Mensual,Desktop
+1252,Producto C,Electronica,164.39,126,Luis,19,M,Ciudad B,"Producto A,Producto D,Producto D,Producto C",6/10/23,2,2,11,0,10,PayPal,Trimestral,Móvil
+1636,Producto A,Hogar,192.98,175,Juan,54,M,Ciudad A,"Producto C,Producto A,Producto A",9/06/23,9,5,10,0,20,Efectivo,Semanal,Tablet
+1919,Producto A,Juguetes,439.37,195,Ana,27,H,Ciudad A,"Producto B,Producto C,Producto B",15/12/23,5,3,16,0,0,Transferencia,Mensual,Desktop
+1236,Producto D,Juguetes,478.66,118,Ana,63,M,Ciudad C,"Producto A,Producto D,Producto A",23/01/23,1,3,12,0,20,Efectivo,Mensual,Tablet
+1937,Producto A,Ropa,110.77,107,Ana,37,M,Ciudad C,"Producto A,Producto B",22/11/23,4,3,1,1,10,Efectivo,Semanal,Desktop
+1212,Producto C,Juguetes,72.96,141,Juan,19,M,Ciudad C,"Producto A,Producto D,Producto C,Producto D",9/07/23,5,2,9,0,20,Tarjeta,Semanal,Desktop
+1856,Producto B,Juguetes,260.59,111,Carlos,52,M,Ciudad A,"Producto C,Producto A,Producto D,Producto D",21/02/23,2,3,7,0,10,Tarjeta,Mensual,Desktop
+1654,Producto A,Juguetes,244.95,138,Luis,34,M,Ciudad C,Producto D,16/07/23,8,5,4,0,0,PayPal,Mensual,Desktop
+1053,Producto A,Ropa,138.41,174,Carlos,48,H,Ciudad B,"Producto B,Producto B,Producto D",8/06/23,5,1,17,0,5,Efectivo,Trimestral,Móvil
+1571,Producto B,Hogar,362.21,136,Luis,22,M,Ciudad A,"Producto D,Producto A,Producto D,Producto A",12/11/23,4,3,12,1,20,Transferencia,Semanal,Desktop
+1972,Producto B,Hogar,108.73,107,Luis,33,H,Ciudad A,"Producto D,Producto C,Producto B",16/12/23,1,2,17,1,20,Efectivo,Semanal,Tablet
+1291,Producto D,Electronica,492.74,141,Sofia,26,M,Ciudad C,"Producto A,Producto D",6/01/23,6,5,9,0,5,Efectivo,Semanal,Móvil
+1715,Producto C,Ropa,177.82,162,Luis,59,H,Ciudad C,"Producto C,Producto D,Producto C,Producto C",9/05/23,3,4,10,0,0,Efectivo,Trimestral,Móvil
+1064,Producto A,Electronica,33.91,183,Sofia,22,M,Ciudad B,"Producto C,Producto D,Producto C",6/07/23,8,2,10,0,10,Transferencia,Trimestral,Tablet
+1808,Producto D,Ropa,215.37,148,Juan,40,H,Ciudad A,Producto B,8/02/23,7,4,16,0,5,Transferencia,Mensual,Desktop
+1910,Producto B,Electronica,386.01,128,Luis,24,H,Ciudad A,"Producto D,Producto D",15/06/23,4,2,5,0,5,PayPal,Trimestral,Tablet
+1459,Producto D,Hogar,292.16,103,Sofia,64,M,Ciudad B,"Producto C,Producto B",21/07/23,1,2,11,0,10,Efectivo,Semanal,Desktop
+1923,Producto D,Electronica,185.19,174,Carlos,30,M,Ciudad C,"Producto C,Producto C",25/04/23,2,1,19,0,15,Tarjeta,Semanal,Desktop
+1158,Producto C,Electronica,93.34,180,Ana,36,M,Ciudad B,Producto D,4/04/23,4,4,14,0,10,PayPal,Trimestral,Móvil
+1524,Producto D,Hogar,447.2,132,Ana,20,H,Ciudad B,"Producto B,Producto A",29/09/23,9,3,13,0,20,Tarjeta,Semanal,Desktop
+1514,Producto C,Hogar,451.63,121,Maria,28,H,Ciudad B,"Producto D,Producto C,Producto D",16/03/23,8,2,7,0,5,Efectivo,Mensual,Móvil
+1104,Producto B,Electronica,68.7,145,Sofia,34,H,Ciudad C,"Producto B,Producto A,Producto C",18/09/23,1,4,3,1,20,Transferencia,Trimestral,Móvil
+1442,Producto D,Electronica,341.99,159,Juan,19,M,Ciudad B,"Producto C,Producto A,Producto D,Producto A",18/02/23,6,2,1,0,5,Transferencia,Semanal,Desktop
+1967,Producto D,Juguetes,48.86,161,Maria,67,H,Ciudad B,"Producto A,Producto C,Producto D",14/02/23,4,5,3,1,10,Tarjeta,Trimestral,Tablet
+1771,Producto B,Hogar,191.8,140,Ana,25,M,Ciudad C,"Producto C,Producto B,Producto A",29/06/23,5,4,12,0,5,PayPal,Mensual,Desktop
+1077,Producto D,Hogar,390.1,115,Sofia,27,M,Ciudad A,"Producto B,Producto D",29/07/23,6,3,13,1,15,Efectivo,Trimestral,Móvil
+1331,Producto D,Juguetes,25.34,117,Juan,64,H,Ciudad C,"Producto D,Producto B,Producto D,Producto D",9/06/23,8,5,9,0,15,Efectivo,Mensual,Tablet
+1769,Producto B,Ropa,214.62,106,Juan,34,M,Ciudad B,Producto C,21/10/23,3,2,5,0,15,Tarjeta,Semanal,Móvil
+1016,Producto C,Electronica,336.07,148,Carlos,19,H,Ciudad A,Producto D,25/02/23,9,3,13,1,20,PayPal,Mensual,Desktop
+1547,Producto C,Juguetes,324.65,138,Sofia,26,H,Ciudad A,"Producto C,Producto A,Producto A,Producto D",2/10/23,5,1,19,0,0,Efectivo,Mensual,Móvil
+1782,Producto D,Juguetes,234.55,130,Carlos,45,M,Ciudad B,"Producto D,Producto A",17/09/23,9,1,18,0,5,PayPal,Semanal,Móvil
+1918,Producto C,Electronica,311.76,194,Juan,41,H,Ciudad A,Producto D,28/07/23,5,3,11,1,0,Efectivo,Trimestral,Desktop
+1100,Producto D,Hogar,287.64,130,Maria,61,M,Ciudad C,"Producto B,Producto C,Producto D",9/05/23,5,3,19,0,5,PayPal,Trimestral,Móvil
+1000,Producto B,Hogar,224.92,147,Carlos,20,H,Ciudad B,"Producto A,Producto C,Producto B,Producto B",2/02/23,6,5,14,0,20,Transferencia,Semanal,Tablet
+1884,Producto A,Juguetes,350.06,122,Carlos,37,H,Ciudad B,"Producto D,Producto C,Producto D",14/03/23,3,5,15,0,20,Tarjeta,Trimestral,Tablet
+1962,Producto A,Electronica,142.03,149,Juan,32,H,Ciudad B,"Producto D,Producto C,Producto A,Producto D",7/03/23,5,3,6,0,0,Efectivo,Trimestral,Tablet
+1548,Producto B,Electronica,126.73,182,Juan,20,H,Ciudad C,Producto D,29/03/23,4,3,18,0,5,PayPal,Semanal,Tablet
+1369,Producto A,Hogar,492.07,154,Luis,29,H,Ciudad C,"Producto A,Producto A,Producto B",14/05/23,6,1,12,1,5,Efectivo,Mensual,Móvil
+1740,Producto D,Electronica,167.31,150,Carlos,22,H,Ciudad A,"Producto D,Producto B,Producto C",1/12/23,6,5,17,0,15,Efectivo,Mensual,Móvil
+1785,Producto D,Ropa,183.81,133,Carlos,24,M,Ciudad B,Producto A,30/01/23,4,4,17,0,20,Transferencia,Mensual,Desktop
+1196,Producto C,Juguetes,113.48,127,Carlos,36,M,Ciudad C,"Producto D,Producto A",2/04/23,7,1,2,0,0,PayPal,Mensual,Desktop
+1376,Producto C,Ropa,434.97,120,Juan,41,M,Ciudad A,"Producto D,Producto B",1/02/23,4,5,1,0,0,Transferencia,Mensual,Desktop
+1723,Producto A,Electronica,463.35,146,Luis,47,M,Ciudad C,"Producto B,Producto D,Producto C",9/12/23,8,2,18,0,0,PayPal,Semanal,Tablet
+1638,Producto B,Hogar,407.16,172,Carlos,37,H,Ciudad B,"Producto B,Producto B,Producto D,Producto B",23/03/23,2,5,14,1,20,Transferencia,Semanal,Móvil
+1219,Producto B,Ropa,242.57,182,Juan,54,M,Ciudad B,"Producto D,Producto C",23/07/23,7,1,1,0,15,PayPal,Trimestral,Desktop
+1934,Producto B,Ropa,390.39,182,Maria,25,M,Ciudad B,Producto C,19/02/23,1,5,7,1,0,Tarjeta,Mensual,Desktop
+1544,Producto D,Hogar,256.43,197,Juan,20,H,Ciudad A,"Producto A,Producto A",9/11/23,2,5,11,0,15,Transferencia,Semanal,Tablet
+1010,Producto C,Hogar,255.41,195,Luis,64,H,Ciudad B,"Producto D,Producto A",12/01/23,2,1,7,1,5,Efectivo,Trimestral,Desktop
+1776,Producto A,Hogar,46.78,159,Luis,50,H,Ciudad B,Producto C,10/11/23,4,1,16,1,20,Transferencia,Mensual,Móvil
+1588,Producto C,Hogar,301.09,194,Carlos,41,M,Ciudad C,"Producto D,Producto C,Producto A,Producto D",29/09/23,5,3,7,0,15,Tarjeta,Semanal,Móvil
+1635,Producto B,Electronica,235.16,146,Carlos,66,M,Ciudad C,Producto A,23/06/23,7,4,12,0,5,Transferencia,Mensual,Desktop
+1073,Producto B,Electronica,334.43,185,Luis,46,M,Ciudad C,"Producto A,Producto C,Producto A",29/01/23,6,1,19,0,10,Tarjeta,Semanal,Desktop
+1634,Producto C,Juguetes,77.51,164,Carlos,55,H,Ciudad B,Producto D,22/12/23,3,3,5,0,0,Efectivo,Trimestral,Desktop
+1811,Producto A,Electronica,160.89,162,Juan,50,M,Ciudad A,"Producto A,Producto C,Producto D",5/12/23,3,3,5,0,15,PayPal,Trimestral,Tablet
+1875,Producto C,Electronica,81.66,101,Maria,26,H,Ciudad C,"Producto C,Producto D,Producto B",24/05/23,3,1,12,0,20,Efectivo,Semanal,Tablet
+1844,Producto B,Juguetes,402.67,198,Carlos,45,M,Ciudad C,"Producto C,Producto B,Producto B,Producto C",28/04/23,9,5,15,1,10,Efectivo,Mensual,Móvil
+1777,Producto A,Hogar,460.92,196,Juan,57,H,Ciudad C,"Producto A,Producto A,Producto B",16/10/23,6,1,14,0,20,Tarjeta,Semanal,Desktop
+1329,Producto D,Ropa,108.37,161,Ana,62,M,Ciudad C,Producto A,21/08/23,1,2,16,0,0,Transferencia,Trimestral,Tablet
+1559,Producto D,Juguetes,224.75,101,Carlos,60,H,Ciudad C,Producto D,8/10/23,1,3,10,0,5,Tarjeta,Trimestral,Tablet
+1985,Producto B,Electronica,426.26,126,Ana,19,M,Ciudad A,"Producto B,Producto B,Producto C,Producto C",18/11/23,8,2,12,0,20,PayPal,Trimestral,Desktop
+1907,Producto A,Juguetes,366.42,163,Sofia,40,H,Ciudad C,"Producto B,Producto A",31/05/23,6,5,6,0,20,Efectivo,Mensual,Desktop
+1350,Producto C,Hogar,398.52,105,Juan,54,M,Ciudad B,Producto A,8/05/23,8,1,8,0,15,Efectivo,Semanal,Tablet
+1417,Producto A,Ropa,58.47,117,Luis,50,M,Ciudad C,Producto B,17/05/23,7,2,14,0,10,Transferencia,Trimestral,Móvil
+1684,Producto B,Electronica,33.11,103,Ana,60,H,Ciudad A,"Producto D,Producto D",25/02/23,7,1,2,0,0,Efectivo,Mensual,Desktop
+1115,Producto A,Ropa,401.23,134,Carlos,26,H,Ciudad B,"Producto A,Producto B",25/05/23,9,4,14,1,0,Efectivo,Trimestral,Desktop
+1426,Producto A,Electronica,461.57,190,Luis,59,M,Ciudad C,Producto B,11/08/23,9,5,8,0,20,PayPal,Trimestral,Tablet
+1212,Producto C,Ropa,447.96,158,Maria,29,M,Ciudad A,"Producto C,Producto B,Producto A",24/01/23,5,2,6,0,0,Tarjeta,Mensual,Tablet
+1599,Producto C,Hogar,359.95,130,Sofia,48,H,Ciudad A,"Producto C,Producto B,Producto C",17/01/23,2,5,11,0,5,Efectivo,Mensual,Desktop
+1076,Producto C,Juguetes,469.87,123,Ana,27,M,Ciudad C,"Producto B,Producto B,Producto D",11/10/23,2,5,7,1,20,Tarjeta,Trimestral,Móvil
+1178,Producto D,Juguetes,262.34,113,Sofia,40,H,Ciudad C,"Producto A,Producto A",9/03/23,8,1,6,0,5,Tarjeta,Trimestral,Tablet
+1998,Producto B,Juguetes,339.67,101,Ana,69,H,Ciudad A,"Producto D,Producto B,Producto D,Producto A",15/01/23,7,2,4,0,15,PayPal,Trimestral,Móvil
+1311,Producto D,Hogar,149.54,150,Maria,21,M,Ciudad A,Producto D,27/04/23,3,2,3,0,20,Transferencia,Semanal,Tablet
+1330,Producto B,Hogar,23.23,146,Luis,62,H,Ciudad C,Producto A,31/05/23,9,4,10,0,20,PayPal,Trimestral,Desktop
+1567,Producto C,Juguetes,23.74,192,Sofia,42,H,Ciudad C,Producto C,29/03/23,1,4,16,0,5,Tarjeta,Mensual,Tablet
+1648,Producto D,Juguetes,180.3,177,Sofia,44,H,Ciudad C,Producto D,11/10/23,4,2,2,0,15,Transferencia,Mensual,Tablet
+1632,Producto D,Electronica,428.64,121,Ana,20,H,Ciudad A,"Producto C,Producto A,Producto C",19/11/23,3,5,12,0,5,Transferencia,Semanal,Móvil
+1503,Producto A,Ropa,470.03,143,Sofia,41,M,Ciudad B,"Producto A,Producto D,Producto B",13/02/23,2,5,8,0,0,Tarjeta,Mensual,Móvil
+1949,Producto D,Hogar,14.0,162,Ana,65,H,Ciudad B,"Producto D,Producto A",2/02/23,4,2,7,0,0,PayPal,Mensual,Tablet
+1638,Producto A,Electronica,262.69,128,Carlos,40,H,Ciudad C,"Producto C,Producto B,Producto D",18/04/23,2,3,3,1,10,PayPal,Mensual,Desktop
+1502,Producto A,Ropa,455.22,183,Sofia,36,M,Ciudad B,"Producto B,Producto C,Producto C,Producto B",29/11/23,2,2,8,1,20,Efectivo,Trimestral,Móvil
+1089,Producto C,Electronica,341.4,131,Sofia,42,M,Ciudad B,Producto B,2/08/23,2,3,10,0,10,Efectivo,Trimestral,Tablet
+1849,Producto A,Juguetes,430.25,149,Juan,24,M,Ciudad A,Producto C,5/11/23,4,1,16,1,0,Tarjeta,Trimestral,Móvil
+1309,Producto B,Electronica,302.45,144,Luis,69,M,Ciudad B,"Producto A,Producto D,Producto D,Producto D",6/10/23,1,2,4,0,5,Transferencia,Semanal,Móvil
+1400,Producto D,Ropa,487.57,141,Carlos,62,H,Ciudad A,"Producto D,Producto C,Producto D,Producto C",20/02/23,7,2,2,0,0,PayPal,Mensual,Desktop
+1221,Producto B,Juguetes,381.12,126,Luis,53,H,Ciudad C,Producto B,15/03/23,9,5,7,1,20,Transferencia,Mensual,Móvil
+1423,Producto D,Electronica,188.41,146,Sofia,37,M,Ciudad B,Producto C,15/12/23,6,2,9,0,15,PayPal,Mensual,Desktop
+1869,Producto A,Hogar,298.0,136,Juan,19,H,Ciudad A,"Producto A,Producto A,Producto B",19/10/23,8,3,4,0,5,Tarjeta,Semanal,Tablet
+1567,Producto D,Ropa,367.47,148,Luis,45,M,Ciudad A,Producto C,12/01/23,7,1,11,0,5,Transferencia,Mensual,Móvil
+1280,Producto C,Ropa,167.47,106,Maria,42,M,Ciudad A,"Producto C,Producto B",22/04/23,8,2,7,0,15,PayPal,Trimestral,Desktop
+1228,Producto D,Ropa,34.79,133,Maria,63,M,Ciudad C,Producto D,27/03/23,2,3,8,0,0,PayPal,Mensual,Tablet
+1780,Producto C,Electronica,158.02,109,Juan,30,H,Ciudad B,"Producto B,Producto B,Producto C,Producto C",11/07/23,8,1,8,0,10,Transferencia,Semanal,Tablet
+1519,Producto D,Ropa,215.08,137,Juan,45,M,Ciudad B,"Producto B,Producto D,Producto B",28/05/23,3,2,8,0,20,Tarjeta,Semanal,Móvil
+1460,Producto D,Ropa,15.77,142,Sofia,69,M,Ciudad C,Producto B,14/02/23,5,2,9,0,0,Transferencia,Mensual,Móvil
+1049,Producto D,Hogar,174.91,158,Luis,32,H,Ciudad C,Producto A,30/05/23,6,4,11,0,5,Tarjeta,Mensual,Móvil
+1977,Producto A,Hogar,239.24,130,Luis,45,H,Ciudad B,"Producto C,Producto B,Producto B,Producto A",20/10/23,2,3,12,0,0,PayPal,Mensual,Móvil
+1949,Producto B,Ropa,228.62,106,Maria,40,H,Ciudad A,"Producto C,Producto B,Producto A",2/01/23,3,4,12,1,10,Efectivo,Semanal,Móvil
+1824,Producto B,Hogar,38.08,132,Ana,64,H,Ciudad C,Producto B,27/08/23,1,2,3,0,20,Tarjeta,Mensual,Móvil
+1724,Producto D,Hogar,419.91,163,Juan,33,M,Ciudad B,Producto B,22/04/23,6,5,15,0,5,Efectivo,Semanal,Desktop
+1414,Producto D,Ropa,375.14,131,Juan,43,M,Ciudad B,"Producto B,Producto C",20/01/23,7,3,1,1,10,Tarjeta,Semanal,Tablet
+1276,Producto D,Ropa,383.53,133,Ana,37,H,Ciudad C,"Producto D,Producto B,Producto C",6/08/23,1,3,6,0,0,Transferencia,Semanal,Tablet
+1574,Producto A,Ropa,92.89,180,Ana,68,H,Ciudad A,Producto C,11/07/23,2,3,7,0,15,PayPal,Trimestral,Móvil
+1557,Producto B,Ropa,35.18,133,Ana,39,H,Ciudad B,"Producto B,Producto C",15/09/23,6,3,13,0,10,Efectivo,Mensual,Móvil
+1409,Producto A,Hogar,476.36,125,Maria,63,M,Ciudad B,"Producto D,Producto D",13/04/23,9,5,15,1,10,Transferencia,Mensual,Desktop
+1807,Producto A,Ropa,191.77,194,Ana,30,M,Ciudad C,"Producto B,Producto C,Producto D",19/03/23,3,4,19,0,0,PayPal,Semanal,Tablet
+1113,Producto D,Hogar,10.85,197,Luis,64,M,Ciudad C,"Producto C,Producto D,Producto B,Producto A",11/04/23,2,3,8,1,20,Transferencia,Mensual,Desktop
+1978,Producto D,Electronica,417.51,182,Ana,51,H,Ciudad C,"Producto A,Producto D,Producto C",21/12/23,6,2,12,0,20,PayPal,Mensual,Desktop
+1672,Producto D,Ropa,481.21,183,Maria,56,M,Ciudad B,Producto D,16/02/23,4,1,14,0,10,Tarjeta,Semanal,Tablet
+1101,Producto A,Juguetes,420.76,145,Carlos,29,H,Ciudad C,"Producto D,Producto D,Producto B",11/10/23,6,1,19,0,15,Efectivo,Semanal,Desktop
+1906,Producto C,Hogar,342.43,166,Luis,44,M,Ciudad A,"Producto C,Producto A",3/08/23,9,2,19,0,10,Efectivo,Mensual,Tablet
+1383,Producto B,Hogar,334.06,117,Ana,40,M,Ciudad C,"Producto C,Producto B",10/08/23,7,3,7,1,10,Transferencia,Trimestral,Tablet
+1739,Producto C,Hogar,423.44,155,Luis,37,H,Ciudad B,"Producto B,Producto A",4/05/23,9,2,1,0,20,Efectivo,Semanal,Tablet
+1649,Producto C,Electronica,467.57,195,Sofia,57,M,Ciudad A,"Producto D,Producto B,Producto C",26/05/23,6,4,10,0,5,Tarjeta,Trimestral,Móvil
+1843,Producto D,Juguetes,419.94,182,Maria,18,M,Ciudad C,"Producto C,Producto D,Producto D,Producto D",9/11/23,2,4,8,0,20,Tarjeta,Semanal,Móvil
+1862,Producto C,Electronica,207.36,128,Juan,41,H,Ciudad C,"Producto B,Producto C,Producto A,Producto D",28/02/23,4,3,13,0,15,Efectivo,Semanal,Desktop
+1380,Producto A,Hogar,338.34,148,Carlos,55,H,Ciudad A,"Producto B,Producto B,Producto A",30/06/23,1,2,7,0,0,Tarjeta,Semanal,Desktop
+1531,Producto A,Electronica,372.15,168,Ana,46,M,Ciudad C,Producto A,3/09/23,3,5,2,1,0,Transferencia,Mensual,Móvil
+1764,Producto D,Juguetes,455.7,162,Luis,39,M,Ciudad C,"Producto C,Producto A",13/08/23,6,3,19,0,20,Efectivo,Trimestral,Móvil
+1972,Producto B,Ropa,282.88,145,Ana,54,M,Ciudad C,Producto A,3/01/23,9,2,11,0,20,PayPal,Trimestral,Desktop
+1824,Producto D,Electronica,212.03,160,Juan,57,M,Ciudad A,Producto C,29/12/23,6,2,18,1,0,PayPal,Mensual,Tablet
+1351,Producto A,Electronica,82.76,177,Juan,58,H,Ciudad B,"Producto C,Producto A,Producto A,Producto B",17/10/23,3,3,19,0,20,Transferencia,Semanal,Móvil
+1580,Producto A,Ropa,268.04,178,Ana,45,M,Ciudad A,"Producto B,Producto B,Producto B,Producto B",5/11/23,5,4,15,0,20,Transferencia,Trimestral,Móvil
+1765,Producto C,Hogar,209.08,147,Luis,56,M,Ciudad C,"Producto D,Producto C,Producto D",3/07/23,1,2,6,0,5,Tarjeta,Semanal,Desktop
+1621,Producto B,Electronica,361.87,156,Ana,42,H,Ciudad B,"Producto B,Producto B",13/04/23,3,4,8,0,5,Efectivo,Trimestral,Desktop
+1536,Producto A,Ropa,472.13,182,Carlos,39,H,Ciudad B,"Producto D,Producto D,Producto C",2/01/23,2,2,8,0,15,PayPal,Semanal,Desktop
+1078,Producto C,Juguetes,395.69,194,Ana,40,H,Ciudad B,"Producto C,Producto A,Producto C,Producto D",19/02/23,4,4,11,0,10,Transferencia,Trimestral,Desktop
+1461,Producto C,Ropa,232.88,191,Carlos,56,M,Ciudad B,"Producto A,Producto C,Producto B,Producto A",3/11/23,4,2,14,0,20,PayPal,Mensual,Desktop
+1719,Producto B,Ropa,316.2,100,Luis,23,H,Ciudad C,"Producto D,Producto C,Producto B",13/06/23,9,4,19,0,15,Tarjeta,Mensual,Móvil
+1308,Producto D,Ropa,174.4,173,Maria,36,M,Ciudad C,Producto D,11/02/23,1,4,10,0,0,PayPal,Mensual,Desktop
+1469,Producto B,Electronica,45.63,196,Sofia,25,M,Ciudad B,"Producto C,Producto A,Producto A,Producto D",30/04/23,8,5,15,0,10,PayPal,Mensual,Desktop
+1092,Producto A,Electronica,225.29,199,Sofia,19,H,Ciudad B,Producto B,17/07/23,9,4,3,1,15,Transferencia,Mensual,Desktop
+1051,Producto C,Juguetes,12.14,174,Carlos,38,M,Ciudad A,"Producto C,Producto D,Producto C",31/10/23,2,3,2,0,5,Efectivo,Trimestral,Desktop
+1411,Producto B,Electronica,347.85,136,Ana,62,M,Ciudad C,"Producto A,Producto D",5/07/23,5,4,3,1,20,Efectivo,Mensual,Móvil
+1483,Producto C,Hogar,167.12,150,Maria,48,H,Ciudad C,"Producto C,Producto C",29/10/23,3,2,5,1,20,Efectivo,Trimestral,Móvil
+1155,Producto A,Juguetes,452.59,184,Sofia,66,M,Ciudad B,"Producto B,Producto C,Producto A",19/07/23,4,4,17,0,0,Tarjeta,Trimestral,Tablet
+1665,Producto D,Ropa,461.69,164,Luis,34,M,Ciudad C,"Producto D,Producto D,Producto C,Producto D",20/05/23,7,4,3,1,10,Tarjeta,Mensual,Desktop
+1011,Producto B,Hogar,60.63,153,Luis,43,M,Ciudad C,Producto B,2/05/23,2,5,16,1,0,PayPal,Trimestral,Desktop
+1769,Producto D,Electronica,83.1,166,Juan,58,H,Ciudad C,"Producto C,Producto D",17/09/23,6,4,7,1,15,Efectivo,Trimestral,Desktop
+1933,Producto D,Ropa,123.43,160,Sofia,56,H,Ciudad A,Producto C,22/07/23,3,5,8,0,0,Efectivo,Mensual,Tablet
+1316,Producto A,Electronica,122.51,182,Juan,63,H,Ciudad A,Producto D,20/04/23,1,2,7,1,15,Efectivo,Semanal,Desktop
+1144,Producto A,Juguetes,44.29,151,Maria,39,M,Ciudad B,"Producto C,Producto A",26/12/23,4,2,2,0,5,Transferencia,Trimestral,Desktop
+1301,Producto B,Hogar,341.3,102,Ana,30,M,Ciudad C,"Producto B,Producto A,Producto A,Producto D",25/05/23,2,3,19,1,20,PayPal,Mensual,Tablet
+1319,Producto A,Juguetes,232.58,198,Luis,43,M,Ciudad B,"Producto B,Producto D,Producto D,Producto A",11/02/23,6,3,19,1,15,PayPal,Trimestral,Móvil
+1523,Producto B,Juguetes,200.0,179,Ana,56,M,Ciudad A,"Producto B,Producto A,Producto D,Producto D",28/04/23,9,5,15,0,15,PayPal,Semanal,Tablet
+1391,Producto B,Juguetes,77.81,141,Sofia,55,M,Ciudad C,"Producto B,Producto A,Producto A,Producto C",25/02/23,5,1,11,0,0,Efectivo,Semanal,Móvil
+1723,Producto B,Hogar,350.38,102,Luis,69,M,Ciudad C,Producto C,28/02/23,3,3,19,1,10,Efectivo,Trimestral,Desktop
+1226,Producto D,Hogar,140.27,172,Juan,33,H,Ciudad A,Producto C,30/06/23,9,3,14,0,5,Transferencia,Trimestral,Tablet
+1668,Producto D,Electronica,32.76,102,Juan,42,M,Ciudad B,"Producto C,Producto C",26/08/23,6,2,6,0,20,Transferencia,Trimestral,Móvil
+1320,Producto D,Electronica,202.68,123,Sofia,25,H,Ciudad C,"Producto C,Producto D",25/03/23,6,5,15,0,20,PayPal,Trimestral,Desktop
+1464,Producto A,Hogar,104.47,162,Carlos,65,H,Ciudad B,"Producto D,Producto A,Producto C,Producto B",21/12/23,3,1,11,0,10,Tarjeta,Trimestral,Desktop
+1787,Producto A,Electronica,211.03,180,Carlos,69,M,Ciudad B,"Producto A,Producto C,Producto B",8/05/23,2,3,2,0,20,Transferencia,Mensual,Desktop
+1355,Producto D,Electronica,412.28,165,Sofia,26,H,Ciudad C,Producto D,20/11/23,3,5,18,0,10,Efectivo,Mensual,Tablet
+1038,Producto A,Juguetes,275.23,127,Ana,48,H,Ciudad C,"Producto A,Producto A",19/05/23,3,3,6,0,20,Tarjeta,Semanal,Desktop
+1982,Producto A,Ropa,74.71,101,Juan,43,M,Ciudad B,Producto D,29/01/23,4,4,3,0,0,Tarjeta,Mensual,Desktop
+1907,Producto C,Electronica,30.8,171,Ana,24,H,Ciudad C,Producto A,9/02/23,4,1,1,0,5,Transferencia,Semanal,Móvil
+1302,Producto D,Hogar,430.38,152,Maria,53,M,Ciudad A,Producto A,16/06/23,8,5,17,0,20,Efectivo,Semanal,Desktop
+1997,Producto C,Hogar,369.91,156,Maria,54,H,Ciudad C,Producto D,29/07/23,8,4,13,0,5,Tarjeta,Mensual,Tablet
+1722,Producto D,Electronica,14.64,157,Carlos,59,H,Ciudad B,"Producto B,Producto A,Producto D,Producto B",9/06/23,1,5,13,0,15,PayPal,Trimestral,Tablet
+1199,Producto A,Hogar,165.87,192,Maria,63,H,Ciudad B,"Producto B,Producto A",7/12/23,8,5,10,1,0,Efectivo,Trimestral,Tablet
+1982,Producto B,Hogar,478.29,152,Maria,69,M,Ciudad A,"Producto D,Producto C",15/05/23,6,3,10,0,5,Transferencia,Trimestral,Móvil
+1783,Producto A,Ropa,203.93,162,Carlos,44,H,Ciudad C,"Producto C,Producto D,Producto D",8/06/23,3,5,15,1,10,Transferencia,Mensual,Desktop
+1690,Producto C,Ropa,201.19,121,Juan,19,M,Ciudad B,Producto C,31/01/23,3,4,1,0,20,Efectivo,Trimestral,Móvil
+1903,Producto B,Ropa,66.66,102,Maria,52,M,Ciudad C,"Producto B,Producto A,Producto D,Producto C",6/12/23,9,5,5,0,15,Tarjeta,Trimestral,Tablet
+1886,Producto B,Ropa,125.55,165,Juan,50,M,Ciudad A,"Producto B,Producto A,Producto B",22/10/23,4,1,4,0,0,PayPal,Semanal,Desktop
+1378,Producto B,Hogar,333.61,151,Maria,66,H,Ciudad A,Producto D,20/02/23,6,5,17,0,15,Efectivo,Semanal,Desktop
+1518,Producto D,Hogar,214.68,164,Ana,37,H,Ciudad C,"Producto D,Producto A,Producto C,Producto A",28/03/23,7,4,11,0,0,Transferencia,Trimestral,Desktop
+1314,Producto C,Electronica,437.81,180,Sofia,31,M,Ciudad B,"Producto C,Producto B,Producto A",30/09/23,6,5,15,0,20,Efectivo,Mensual,Desktop
+1824,Producto B,Juguetes,289.36,130,Sofia,53,H,Ciudad C,Producto B,4/04/23,4,5,10,1,10,Tarjeta,Trimestral,Móvil
+1283,Producto D,Juguetes,427.58,100,Sofia,63,M,Ciudad B,"Producto D,Producto A,Producto D,Producto C",13/06/23,4,5,13,0,5,Efectivo,Trimestral,Tablet
+1244,Producto B,Ropa,202.3,181,Ana,33,H,Ciudad B,"Producto D,Producto D",16/10/23,2,5,19,0,5,Transferencia,Mensual,Tablet
+1359,Producto C,Juguetes,131.7,147,Sofia,57,M,Ciudad B,"Producto B,Producto C",31/10/23,3,4,6,0,10,Transferencia,Mensual,Tablet
+1551,Producto D,Juguetes,387.48,147,Maria,49,M,Ciudad A,"Producto D,Producto C,Producto C,Producto D",2/02/23,4,4,12,0,15,PayPal,Trimestral,Móvil
+1432,Producto C,Juguetes,248.83,143,Carlos,52,H,Ciudad A,"Producto A,Producto A,Producto D",1/09/23,5,5,18,0,15,Transferencia,Mensual,Tablet
+1685,Producto D,Ropa,20.26,122,Juan,20,H,Ciudad C,"Producto A,Producto A,Producto B,Producto D",6/06/23,7,4,9,0,0,Efectivo,Trimestral,Desktop
+1242,Producto B,Juguetes,390.97,182,Sofia,44,H,Ciudad C,"Producto D,Producto C,Producto C",23/09/23,5,5,4,0,0,PayPal,Trimestral,Desktop
+1508,Producto C,Ropa,97.24,157,Ana,22,H,Ciudad A,"Producto D,Producto B",29/04/23,8,4,16,0,5,Efectivo,Mensual,Móvil
+1641,Producto A,Electronica,116.65,143,Carlos,22,M,Ciudad B,Producto C,26/07/23,9,5,4,1,0,PayPal,Semanal,Desktop
+1217,Producto A,Ropa,57.85,155,Juan,64,M,Ciudad A,Producto C,16/08/23,5,2,10,0,0,Transferencia,Mensual,Móvil
+1717,Producto C,Juguetes,84.21,148,Ana,29,H,Ciudad A,"Producto C,Producto B",6/06/23,5,1,15,1,5,Transferencia,Mensual,Tablet
+1824,Producto B,Electronica,422.06,133,Sofia,48,H,Ciudad A,"Producto D,Producto C,Producto A",13/07/23,4,3,3,1,20,Transferencia,Mensual,Móvil
+1043,Producto C,Electronica,369.28,177,Sofia,61,M,Ciudad B,Producto D,28/06/23,3,3,9,0,15,Efectivo,Mensual,Móvil
+1712,Producto C,Electronica,296.74,178,Juan,40,H,Ciudad B,"Producto C,Producto C,Producto A,Producto B",23/03/23,6,4,2,0,20,Transferencia,Trimestral,Tablet
+1549,Producto D,Electronica,174.51,130,Maria,49,M,Ciudad A,"Producto C,Producto B",7/04/23,5,3,14,0,5,Efectivo,Semanal,Móvil
+1773,Producto D,Juguetes,366.02,181,Carlos,57,H,Ciudad C,Producto A,10/11/23,8,4,16,0,20,Transferencia,Semanal,Tablet
+1445,Producto C,Electronica,326.17,174,Sofia,52,M,Ciudad B,"Producto A,Producto B",10/02/23,1,5,17,0,20,PayPal,Trimestral,Móvil
+1547,Producto D,Electronica,81.08,106,Luis,55,H,Ciudad B,"Producto C,Producto A",19/03/23,1,1,19,0,10,Efectivo,Semanal,Tablet
+1502,Producto C,Electronica,249.04,107,Maria,66,M,Ciudad C,"Producto B,Producto B",30/08/23,9,1,16,0,10,Efectivo,Semanal,Móvil
+1758,Producto C,Hogar,236.37,110,Luis,50,M,Ciudad B,"Producto A,Producto B,Producto C,Producto B",3/08/23,9,4,17,0,0,Transferencia,Trimestral,Tablet
+1642,Producto D,Hogar,316.65,159,Sofia,39,M,Ciudad B,"Producto D,Producto B,Producto D,Producto C",28/09/23,8,5,6,0,10,Transferencia,Mensual,Tablet
+1991,Producto A,Electronica,275.87,119,Carlos,35,H,Ciudad A,"Producto A,Producto D,Producto A",18/07/23,7,4,12,0,0,PayPal,Trimestral,Desktop
+1684,Producto C,Juguetes,202.82,142,Carlos,58,M,Ciudad B,"Producto D,Producto B",14/04/23,4,5,9,0,0,Efectivo,Semanal,Móvil
+1726,Producto B,Ropa,291.05,197,Luis,28,M,Ciudad B,"Producto D,Producto C",15/05/23,4,2,7,0,5,Efectivo,Mensual,Móvil
+1048,Producto C,Electronica,23.53,114,Sofia,49,M,Ciudad C,"Producto A,Producto D,Producto D",3/11/23,4,5,19,0,20,PayPal,Mensual,Tablet
+1063,Producto D,Juguetes,129.42,189,Carlos,56,M,Ciudad B,Producto C,18/05/23,8,5,7,0,20,Tarjeta,Semanal,Móvil
+1952,Producto A,Hogar,456.63,158,Maria,40,H,Ciudad A,"Producto C,Producto B,Producto A,Producto B",26/11/23,4,3,8,0,5,Transferencia,Semanal,Tablet
+1625,Producto B,Hogar,146.7,116,Sofia,56,H,Ciudad B,Producto B,3/06/23,5,4,15,0,10,Efectivo,Mensual,Desktop
+1864,Producto A,Ropa,421.87,198,Carlos,59,H,Ciudad C,"Producto C,Producto D,Producto A,Producto C",19/03/23,8,2,9,0,20,Efectivo,Semanal,Desktop
+1435,Producto C,Juguetes,244.52,181,Luis,56,H,Ciudad B,"Producto B,Producto C,Producto B",30/09/23,7,5,15,0,0,Efectivo,Semanal,Desktop
+1354,Producto A,Ropa,379.0,122,Juan,37,M,Ciudad B,"Producto A,Producto D,Producto C,Producto B",3/05/23,4,5,17,0,5,Efectivo,Semanal,Móvil
+1904,Producto C,Electronica,129.72,191,Carlos,67,H,Ciudad A,"Producto A,Producto A,Producto B,Producto B",6/01/23,8,3,4,1,10,Efectivo,Mensual,Móvil
+1313,Producto D,Electronica,175.67,188,Luis,31,M,Ciudad A,"Producto B,Producto D,Producto D",29/10/23,2,3,17,0,20,PayPal,Semanal,Tablet
+1868,Producto A,Ropa,154.07,159,Carlos,18,M,Ciudad C,Producto C,26/04/23,4,5,10,0,20,PayPal,Semanal,Móvil
+1020,Producto C,Ropa,151.1,140,Juan,62,H,Ciudad A,"Producto D,Producto A,Producto C",9/08/23,8,3,2,0,20,Tarjeta,Trimestral,Desktop
+1966,Producto B,Juguetes,256.07,103,Sofia,18,H,Ciudad A,Producto A,22/12/23,9,3,1,1,0,Transferencia,Trimestral,Tablet
+1923,Producto C,Juguetes,249.67,172,Luis,35,M,Ciudad A,"Producto A,Producto C,Producto C,Producto D",13/03/23,1,4,13,1,10,Transferencia,Semanal,Tablet
+1273,Producto B,Juguetes,328.83,139,Maria,64,M,Ciudad B,"Producto A,Producto D,Producto C,Producto A",8/03/23,9,3,17,0,20,PayPal,Semanal,Desktop
+1404,Producto B,Hogar,249.96,118,Carlos,26,M,Ciudad B,"Producto C,Producto D",13/05/23,7,4,13,0,0,Tarjeta,Trimestral,Móvil
+1593,Producto A,Electronica,342.39,154,Maria,19,M,Ciudad B,"Producto A,Producto C",13/12/23,1,1,4,0,10,PayPal,Semanal,Móvil
+1266,Producto B,Juguetes,136.29,143,Sofia,51,M,Ciudad C,"Producto B,Producto A,Producto C,Producto B",5/10/23,8,2,19,0,5,PayPal,Mensual,Móvil
+1324,Producto C,Ropa,456.4,189,Luis,56,M,Ciudad C,"Producto C,Producto A,Producto A,Producto A",13/10/23,7,5,16,0,15,Tarjeta,Semanal,Tablet
+1319,Producto B,Juguetes,231.83,168,Maria,30,M,Ciudad B,"Producto A,Producto A,Producto B,Producto D",23/05/23,2,1,6,0,5,Transferencia,Mensual,Móvil
+1827,Producto B,Electronica,156.47,183,Ana,67,H,Ciudad A,"Producto D,Producto B",29/03/23,6,3,9,0,5,Efectivo,Semanal,Tablet
+1071,Producto C,Ropa,374.13,176,Sofia,39,H,Ciudad A,"Producto D,Producto A",17/10/23,4,4,3,0,20,PayPal,Trimestral,Móvil
+1178,Producto D,Hogar,161.38,122,Sofia,42,M,Ciudad C,"Producto A,Producto C,Producto C,Producto D",17/11/23,6,1,8,1,5,PayPal,Trimestral,Desktop
+1039,Producto D,Juguetes,196.9,124,Carlos,37,H,Ciudad B,"Producto D,Producto C",22/06/23,2,1,2,1,20,PayPal,Mensual,Tablet
+1247,Producto D,Ropa,407.37,169,Carlos,69,H,Ciudad B,"Producto D,Producto B,Producto A,Producto B",23/11/23,4,5,4,1,15,PayPal,Semanal,Tablet
+1938,Producto C,Electronica,74.03,173,Luis,38,H,Ciudad C,"Producto C,Producto B",3/01/23,5,4,8,1,5,PayPal,Semanal,Desktop
+1575,Producto C,Hogar,270.15,129,Maria,34,M,Ciudad C,"Producto B,Producto A,Producto B",28/11/23,7,1,7,1,10,Efectivo,Trimestral,Móvil
+1011,Producto C,Electronica,116.22,128,Sofia,42,M,Ciudad A,"Producto A,Producto C",6/12/23,7,3,6,0,20,PayPal,Trimestral,Tablet
+1694,Producto B,Ropa,331.71,143,Luis,42,H,Ciudad A,"Producto D,Producto A,Producto D,Producto A",19/11/23,6,3,17,0,20,Efectivo,Trimestral,Móvil
+1499,Producto D,Hogar,222.41,124,Carlos,38,M,Ciudad B,Producto C,26/09/23,7,3,6,0,0,Transferencia,Semanal,Desktop
+1006,Producto A,Juguetes,473.66,197,Carlos,45,H,Ciudad A,"Producto A,Producto C",22/12/23,6,4,11,0,10,Efectivo,Mensual,Móvil
+1331,Producto D,Electronica,202.6,136,Ana,47,M,Ciudad A,"Producto D,Producto B,Producto D,Producto B",15/04/23,1,5,1,0,10,Tarjeta,Trimestral,Desktop
+1906,Producto B,Electronica,155.19,164,Juan,59,M,Ciudad B,"Producto C,Producto B,Producto A",14/06/23,2,2,7,0,5,PayPal,Trimestral,Tablet
+1936,Producto A,Ropa,290.18,125,Maria,18,M,Ciudad A,"Producto D,Producto D,Producto D",21/01/23,1,4,16,0,20,Transferencia,Trimestral,Móvil
+1526,Producto D,Juguetes,110.22,157,Juan,21,M,Ciudad A,"Producto C,Producto B",9/10/23,7,3,6,0,5,Transferencia,Semanal,Móvil
+1925,Producto C,Electronica,275.82,192,Maria,39,M,Ciudad C,"Producto A,Producto B",23/08/23,6,5,6,0,20,Transferencia,Semanal,Desktop
+1933,Producto B,Electronica,345.58,140,Sofia,18,H,Ciudad B,Producto D,7/01/23,5,2,6,1,15,PayPal,Semanal,Tablet
+1615,Producto C,Ropa,287.84,132,Luis,37,M,Ciudad C,Producto B,23/12/23,8,2,8,1,10,PayPal,Trimestral,Tablet
+1060,Producto B,Electronica,241.92,159,Maria,21,M,Ciudad A,Producto A,30/09/23,3,4,18,0,5,Tarjeta,Mensual,Móvil
+1187,Producto A,Hogar,256.96,157,Juan,63,H,Ciudad A,"Producto D,Producto D,Producto D,Producto D",5/01/23,2,4,3,0,20,Efectivo,Mensual,Móvil
+1219,Producto A,Ropa,263.06,179,Ana,66,H,Ciudad B,"Producto D,Producto C,Producto B",11/07/23,8,4,9,1,20,Transferencia,Trimestral,Desktop
+1596,Producto D,Juguetes,205.31,194,Sofia,48,H,Ciudad B,Producto C,1/12/23,4,2,11,0,5,PayPal,Trimestral,Desktop
+1052,Producto B,Juguetes,148.8,120,Carlos,59,M,Ciudad C,"Producto B,Producto A",20/06/23,1,5,13,1,0,Transferencia,Mensual,Tablet
+1712,Producto D,Hogar,203.89,134,Carlos,55,H,Ciudad B,Producto D,10/01/23,6,1,1,0,15,Transferencia,Trimestral,Tablet
+1373,Producto A,Electronica,232.22,109,Juan,53,M,Ciudad C,"Producto D,Producto A,Producto C,Producto C",18/01/23,9,1,2,0,0,PayPal,Mensual,Desktop
+1690,Producto B,Electronica,270.39,159,Juan,64,H,Ciudad C,Producto C,3/11/23,7,3,13,0,10,Tarjeta,Trimestral,Desktop
+1245,Producto A,Hogar,344.71,167,Sofia,67,M,Ciudad B,"Producto B,Producto C",7/07/23,4,1,15,0,0,Efectivo,Trimestral,Móvil
+1732,Producto B,Electronica,374.98,137,Luis,40,H,Ciudad A,"Producto C,Producto D,Producto B,Producto D",8/11/23,6,5,17,1,0,Transferencia,Trimestral,Desktop
+1059,Producto C,Ropa,99.79,185,Sofia,58,H,Ciudad A,"Producto A,Producto D,Producto A,Producto A",6/08/23,3,4,7,0,15,Tarjeta,Mensual,Móvil
+1365,Producto A,Hogar,206.59,127,Ana,42,M,Ciudad C,Producto B,8/07/23,2,1,6,0,10,PayPal,Mensual,Desktop
+1366,Producto D,Hogar,314.58,182,Maria,44,H,Ciudad A,"Producto D,Producto B,Producto D",24/06/23,4,1,16,0,20,PayPal,Mensual,Desktop
+1693,Producto A,Electronica,130.37,130,Luis,51,H,Ciudad C,"Producto A,Producto C",27/01/23,6,3,18,0,15,PayPal,Mensual,Desktop
+1019,Producto C,Ropa,440.96,108,Ana,42,H,Ciudad A,"Producto C,Producto C,Producto D,Producto A",16/03/23,1,4,17,0,10,Efectivo,Trimestral,Tablet
+1594,Producto D,Juguetes,445.95,139,Juan,45,M,Ciudad C,"Producto C,Producto A,Producto A",8/05/23,7,3,9,1,20,Efectivo,Trimestral,Tablet
+1817,Producto B,Electronica,496.04,144,Juan,44,H,Ciudad A,Producto C,22/02/23,9,1,8,0,0,Transferencia,Mensual,Desktop
+1779,Producto D,Juguetes,456.85,137,Juan,54,M,Ciudad B,"Producto D,Producto D,Producto A",24/09/23,2,3,11,0,15,Efectivo,Semanal,Tablet
+1568,Producto B,Ropa,365.58,104,Luis,38,M,Ciudad C,"Producto B,Producto A",7/02/23,6,4,4,0,20,Efectivo,Mensual,Móvil
+1583,Producto B,Ropa,414.4,142,Ana,24,H,Ciudad A,"Producto D,Producto C",30/08/23,8,1,5,1,15,Transferencia,Trimestral,Tablet
+1469,Producto B,Hogar,18.04,177,Carlos,44,H,Ciudad C,"Producto B,Producto A,Producto B,Producto A",4/06/23,4,2,7,0,5,Tarjeta,Trimestral,Desktop
+1392,Producto A,Electronica,170.56,135,Carlos,33,H,Ciudad A,Producto B,8/05/23,7,2,10,0,5,PayPal,Semanal,Desktop
+1696,Producto B,Hogar,453.11,159,Luis,61,H,Ciudad B,"Producto D,Producto B,Producto B",27/06/23,1,4,13,0,5,Transferencia,Mensual,Móvil
+1744,Producto D,Hogar,197.39,129,Luis,66,M,Ciudad C,"Producto C,Producto A,Producto C",1/01/24,7,5,12,0,5,PayPal,Mensual,Tablet
+1013,Producto D,Hogar,283.44,195,Juan,64,H,Ciudad C,"Producto D,Producto C,Producto B",3/11/23,4,3,19,0,0,Efectivo,Mensual,Tablet
+1247,Producto C,Juguetes,298.58,126,Juan,26,H,Ciudad B,"Producto B,Producto C",20/12/23,1,4,10,0,20,PayPal,Mensual,Móvil
+1078,Producto A,Ropa,274.48,135,Juan,28,M,Ciudad B,Producto C,24/08/23,5,5,8,0,20,Tarjeta,Mensual,Desktop
+1270,Producto B,Juguetes,388.83,141,Sofia,49,H,Ciudad A,Producto A,24/09/23,5,2,1,0,15,Tarjeta,Trimestral,Desktop
+1521,Producto B,Ropa,342.6,165,Luis,45,M,Ciudad A,"Producto A,Producto A,Producto A",23/04/23,6,5,3,0,15,Tarjeta,Semanal,Tablet
+1162,Producto C,Hogar,196.97,126,Carlos,24,H,Ciudad B,Producto C,3/09/23,5,1,6,0,10,Tarjeta,Trimestral,Desktop
+1625,Producto D,Juguetes,132.2,101,Luis,57,H,Ciudad B,"Producto A,Producto B",5/08/23,2,4,6,0,0,Transferencia,Semanal,Móvil
+1792,Producto D,Juguetes,163.26,161,Ana,34,H,Ciudad C,"Producto B,Producto A,Producto D,Producto B",14/01/23,3,1,2,0,20,Tarjeta,Semanal,Móvil
+1256,Producto A,Juguetes,259.61,134,Maria,68,M,Ciudad A,"Producto A,Producto B,Producto D,Producto D",12/11/23,7,2,13,0,20,Efectivo,Mensual,Desktop
+1558,Producto A,Electronica,360.68,112,Juan,59,H,Ciudad B,"Producto D,Producto C,Producto A",23/07/23,8,4,13,1,15,PayPal,Mensual,Tablet
+1201,Producto A,Hogar,187.79,157,Sofia,38,M,Ciudad C,"Producto D,Producto B,Producto C",31/05/23,3,5,8,0,20,PayPal,Semanal,Desktop
+1079,Producto B,Ropa,467.62,103,Juan,25,H,Ciudad B,"Producto C,Producto A,Producto D,Producto A",13/04/23,2,1,13,0,20,Efectivo,Semanal,Móvil
+1076,Producto A,Electronica,134.7,146,Sofia,37,H,Ciudad B,"Producto C,Producto D",8/10/23,2,2,3,0,0,Tarjeta,Trimestral,Móvil
+1608,Producto D,Juguetes,188.07,136,Sofia,54,M,Ciudad B,"Producto B,Producto C,Producto A,Producto A",9/12/23,8,1,5,0,20,PayPal,Semanal,Desktop
+1717,Producto C,Electronica,252.23,178,Carlos,30,H,Ciudad B,"Producto B,Producto D,Producto C",28/10/23,2,1,9,1,0,PayPal,Trimestral,Móvil
+1084,Producto A,Juguetes,56.03,151,Carlos,54,M,Ciudad A,"Producto A,Producto B,Producto C",15/12/23,9,4,16,0,10,Efectivo,Trimestral,Desktop
+1617,Producto D,Electronica,259.04,119,Sofia,35,H,Ciudad C,"Producto D,Producto B,Producto C",12/06/23,8,4,2,0,5,PayPal,Trimestral,Desktop
+1496,Producto D,Hogar,135.22,108,Maria,62,H,Ciudad C,"Producto A,Producto C,Producto B",17/02/23,3,3,16,0,15,Transferencia,Trimestral,Desktop
+1232,Producto B,Juguetes,306.95,197,Luis,41,H,Ciudad B,"Producto A,Producto B",12/12/23,5,4,11,0,15,Tarjeta,Mensual,Tablet
+1855,Producto B,Hogar,430.11,128,Carlos,18,M,Ciudad C,"Producto D,Producto D,Producto D",8/05/23,8,2,15,1,0,Efectivo,Semanal,Desktop
+1726,Producto D,Juguetes,393.15,168,Ana,29,H,Ciudad C,"Producto B,Producto C,Producto B",26/06/23,1,4,2,0,10,Efectivo,Trimestral,Móvil
+1456,Producto B,Ropa,154.71,165,Carlos,25,H,Ciudad B,"Producto D,Producto C",13/08/23,4,4,14,0,0,Transferencia,Semanal,Tablet
+1024,Producto D,Electronica,238.12,129,Carlos,33,H,Ciudad C,"Producto C,Producto C",25/04/23,4,5,17,0,15,Transferencia,Semanal,Móvil
+1697,Producto B,Electronica,480.28,112,Maria,19,M,Ciudad B,"Producto A,Producto A,Producto C,Producto C",21/10/23,4,5,13,0,10,Efectivo,Trimestral,Desktop
+1349,Producto B,Electronica,91.13,150,Carlos,36,H,Ciudad C,"Producto A,Producto B",18/03/23,2,2,5,0,0,Transferencia,Semanal,Tablet
+1375,Producto D,Hogar,328.66,113,Ana,54,H,Ciudad C,Producto D,30/12/23,3,4,3,0,0,Efectivo,Mensual,Desktop
+1174,Producto B,Hogar,31.24,159,Maria,69,M,Ciudad C,"Producto C,Producto D,Producto B,Producto C",4/06/23,2,4,17,0,15,PayPal,Mensual,Móvil
+1727,Producto C,Hogar,271.76,179,Ana,27,M,Ciudad C,"Producto B,Producto A",13/02/23,3,2,16,0,0,Transferencia,Mensual,Móvil
+1189,Producto B,Hogar,232.98,159,Carlos,56,H,Ciudad A,"Producto A,Producto A",31/07/23,2,3,15,0,15,PayPal,Trimestral,Desktop
+1316,Producto A,Electronica,214.32,173,Sofia,37,H,Ciudad C,"Producto A,Producto D",8/03/23,2,1,11,1,15,Transferencia,Mensual,Tablet
+1855,Producto A,Hogar,150.56,144,Luis,53,M,Ciudad A,"Producto D,Producto A,Producto D,Producto B",24/05/23,8,4,6,1,20,Efectivo,Mensual,Móvil
+1682,Producto A,Ropa,215.11,106,Carlos,53,M,Ciudad B,"Producto B,Producto A",15/09/23,7,5,11,0,0,Tarjeta,Semanal,Móvil
+1778,Producto C,Electronica,156.54,126,Ana,20,H,Ciudad A,"Producto A,Producto D",12/12/23,9,5,12,1,10,Transferencia,Trimestral,Tablet
+1893,Producto B,Juguetes,315.6,143,Sofia,61,H,Ciudad A,"Producto D,Producto C",20/05/23,5,1,12,0,0,Efectivo,Mensual,Tablet
+1758,Producto D,Juguetes,30.5,139,Ana,63,H,Ciudad B,"Producto A,Producto B,Producto B,Producto A",14/05/23,4,3,15,0,5,PayPal,Semanal,Móvil
+1799,Producto C,Ropa,41.43,134,Carlos,49,M,Ciudad B,Producto B,28/06/23,9,1,17,0,15,Tarjeta,Semanal,Móvil
+1349,Producto B,Hogar,263.81,123,Carlos,49,M,Ciudad A,"Producto A,Producto B,Producto A,Producto A",29/11/23,8,5,16,0,5,Transferencia,Semanal,Tablet
+1302,Producto C,Ropa,246.72,129,Juan,54,H,Ciudad A,"Producto B,Producto A,Producto D,Producto D",3/05/23,8,3,7,1,5,PayPal,Mensual,Tablet
+1557,Producto B,Juguetes,40.05,154,Maria,50,M,Ciudad A,"Producto C,Producto B,Producto C,Producto A",5/07/23,1,1,12,0,5,PayPal,Mensual,Tablet
+1564,Producto A,Electronica,91.16,169,Juan,58,H,Ciudad B,"Producto B,Producto D,Producto D,Producto B",29/10/23,4,2,15,0,0,Tarjeta,Semanal,Móvil
+1089,Producto A,Ropa,284.45,146,Maria,40,H,Ciudad A,"Producto C,Producto D,Producto D,Producto A",14/04/23,2,1,8,0,0,Tarjeta,Trimestral,Móvil
+1972,Producto D,Juguetes,470.3,136,Maria,18,M,Ciudad C,Producto B,14/06/23,9,5,12,1,20,Efectivo,Mensual,Tablet
+1260,Producto B,Electronica,67.29,113,Ana,29,H,Ciudad B,"Producto B,Producto B,Producto A,Producto C",14/03/23,4,3,17,0,20,PayPal,Mensual,Móvil
+1965,Producto B,Hogar,177.82,100,Ana,22,M,Ciudad B,"Producto B,Producto B",1/06/23,5,3,6,0,20,PayPal,Trimestral,Desktop
+1878,Producto D,Hogar,425.71,174,Carlos,60,M,Ciudad C,"Producto A,Producto A",4/03/23,8,1,10,0,10,Transferencia,Mensual,Desktop
+1156,Producto A,Juguetes,304.69,123,Juan,43,H,Ciudad A,"Producto D,Producto B,Producto C",9/10/23,5,1,5,0,10,Tarjeta,Trimestral,Desktop
+1750,Producto A,Hogar,191.85,116,Juan,68,M,Ciudad B,"Producto C,Producto A",13/11/23,9,2,14,0,20,Transferencia,Trimestral,Móvil
+1268,Producto A,Juguetes,75.17,130,Carlos,46,H,Ciudad C,Producto B,15/01/23,1,3,1,0,10,Transferencia,Mensual,Móvil
+1804,Producto C,Hogar,424.11,190,Sofia,67,M,Ciudad C,"Producto C,Producto C,Producto A,Producto C",12/03/23,6,3,17,0,15,PayPal,Semanal,Tablet
+1716,Producto C,Juguetes,60.47,163,Juan,64,M,Ciudad C,Producto B,3/02/23,2,4,18,0,5,PayPal,Semanal,Tablet
+1413,Producto B,Hogar,486.22,179,Carlos,47,H,Ciudad B,"Producto A,Producto A,Producto A,Producto D",21/11/23,6,2,13,0,20,Tarjeta,Trimestral,Móvil
+1260,Producto D,Juguetes,248.62,162,Maria,18,M,Ciudad B,"Producto A,Producto D",15/03/23,8,1,15,0,15,Efectivo,Mensual,Móvil
+1799,Producto A,Juguetes,387.19,109,Ana,20,M,Ciudad C,"Producto A,Producto A,Producto D,Producto B",17/06/23,3,4,13,0,0,PayPal,Trimestral,Tablet
+1248,Producto D,Ropa,338.48,176,Carlos,44,H,Ciudad C,"Producto B,Producto A,Producto C",13/12/23,9,3,15,0,0,Tarjeta,Mensual,Desktop
+1531,Producto D,Electronica,341.93,148,Luis,69,M,Ciudad A,"Producto C,Producto B,Producto B",27/02/23,2,5,15,0,0,PayPal,Mensual,Móvil
+1939,Producto C,Juguetes,316.86,153,Sofia,57,H,Ciudad B,"Producto D,Producto B",26/09/23,8,1,15,0,5,Efectivo,Trimestral,Desktop
+1817,Producto B,Hogar,206.71,168,Juan,68,M,Ciudad A,"Producto C,Producto C,Producto B",7/09/23,3,3,11,1,5,PayPal,Trimestral,Desktop
+1792,Producto B,Ropa,52.13,169,Carlos,21,H,Ciudad C,"Producto C,Producto C,Producto A,Producto A",26/06/23,3,3,11,0,15,Tarjeta,Semanal,Tablet
+1986,Producto B,Electronica,11.76,116,Juan,24,H,Ciudad B,"Producto A,Producto A,Producto B,Producto B",16/07/23,4,2,3,0,0,Efectivo,Trimestral,Desktop
+1339,Producto B,Juguetes,113.62,127,Ana,45,M,Ciudad B,"Producto D,Producto B,Producto D,Producto B",17/01/23,2,5,19,0,5,Transferencia,Trimestral,Desktop
+1199,Producto D,Electronica,497.53,103,Luis,49,M,Ciudad B,Producto D,7/06/23,3,2,6,0,20,Transferencia,Mensual,Tablet
+1460,Producto A,Juguetes,462.77,153,Juan,35,H,Ciudad B,"Producto C,Producto A",3/06/23,4,2,9,1,15,PayPal,Semanal,Desktop
+1172,Producto D,Hogar,489.9,187,Ana,69,H,Ciudad A,"Producto A,Producto C,Producto B,Producto C",17/02/23,5,3,15,0,15,PayPal,Semanal,Tablet
+1384,Producto A,Electronica,334.69,142,Ana,20,H,Ciudad C,"Producto D,Producto D,Producto A",25/01/23,3,1,14,0,10,Efectivo,Semanal,Tablet
+1909,Producto A,Electronica,319.15,119,Ana,25,M,Ciudad B,"Producto A,Producto B,Producto D",2/04/23,7,1,9,0,10,PayPal,Mensual,Desktop
+1250,Producto A,Hogar,354.75,172,Ana,21,H,Ciudad A,"Producto A,Producto D,Producto B,Producto C",10/08/23,6,1,11,0,20,PayPal,Trimestral,Móvil
+1470,Producto A,Ropa,314.89,168,Ana,30,M,Ciudad A,"Producto A,Producto D,Producto B,Producto C",13/01/23,5,1,11,0,5,Transferencia,Trimestral,Desktop
+1396,Producto A,Juguetes,251.68,125,Maria,28,H,Ciudad B,"Producto D,Producto C,Producto C,Producto B",18/04/23,7,1,1,0,20,Efectivo,Mensual,Móvil
+1149,Producto D,Juguetes,118.7,166,Luis,42,H,Ciudad C,"Producto B,Producto A,Producto D",8/12/23,1,2,10,0,20,Tarjeta,Semanal,Tablet
+1915,Producto D,Hogar,397.19,136,Carlos,68,H,Ciudad A,Producto A,7/08/23,3,2,8,1,15,PayPal,Semanal,Móvil
+1354,Producto C,Electronica,380.37,150,Sofia,19,M,Ciudad C,"Producto D,Producto C",16/01/23,7,3,18,0,5,Transferencia,Trimestral,Desktop
+1814,Producto C,Juguetes,404.43,130,Carlos,47,M,Ciudad B,"Producto B,Producto D,Producto C,Producto D",4/08/23,6,3,4,0,15,Tarjeta,Mensual,Móvil
+1353,Producto A,Juguetes,97.04,126,Sofia,30,M,Ciudad C,"Producto D,Producto A",19/12/23,2,1,16,0,0,Efectivo,Trimestral,Desktop
+1692,Producto A,Juguetes,163.13,103,Ana,45,M,Ciudad C,"Producto B,Producto D,Producto D,Producto C",9/08/23,9,5,9,1,5,Efectivo,Mensual,Móvil
+1568,Producto D,Ropa,221.24,121,Juan,47,M,Ciudad B,"Producto B,Producto C",3/06/23,4,4,19,0,5,Tarjeta,Trimestral,Móvil
+1122,Producto C,Juguetes,145.3,112,Ana,50,M,Ciudad C,"Producto B,Producto B",19/06/23,4,1,17,0,20,Efectivo,Semanal,Móvil
+1205,Producto A,Electronica,328.08,194,Juan,60,H,Ciudad B,"Producto B,Producto D",28/01/23,6,1,19,0,10,Efectivo,Semanal,Móvil
+1366,Producto D,Juguetes,309.93,179,Sofia,67,H,Ciudad C,"Producto B,Producto D",1/11/23,5,2,19,0,10,Efectivo,Mensual,Tablet
+1751,Producto B,Ropa,232.6,117,Maria,39,H,Ciudad A,Producto B,25/04/23,4,1,10,0,5,Tarjeta,Semanal,Desktop
+1567,Producto D,Hogar,454.8,166,Luis,21,H,Ciudad A,Producto A,31/12/23,1,4,15,0,20,PayPal,Mensual,Desktop
+1851,Producto A,Electronica,470.77,198,Maria,25,H,Ciudad B,Producto D,4/09/23,1,4,9,0,0,PayPal,Mensual,Móvil
+1860,Producto C,Ropa,405.37,163,Luis,55,M,Ciudad C,Producto B,2/09/23,5,3,8,1,5,Transferencia,Semanal,Desktop
+1658,Producto C,Electronica,31.13,175,Ana,21,H,Ciudad C,"Producto D,Producto C,Producto B,Producto C",25/02/23,1,2,17,1,10,Tarjeta,Mensual,Desktop
+1700,Producto D,Hogar,254.77,149,Luis,18,H,Ciudad B,"Producto A,Producto D,Producto A,Producto D",13/02/23,6,5,17,0,5,Efectivo,Semanal,Tablet
+1275,Producto B,Electronica,393.05,137,Maria,42,M,Ciudad B,"Producto D,Producto D,Producto C",23/01/23,8,2,9,0,0,PayPal,Mensual,Móvil
+1925,Producto B,Ropa,44.65,134,Sofia,36,H,Ciudad A,"Producto D,Producto C",14/03/23,9,2,4,0,0,PayPal,Mensual,Móvil
+1194,Producto A,Juguetes,292.12,150,Ana,41,M,Ciudad B,"Producto C,Producto A",15/10/23,6,3,10,1,20,Efectivo,Semanal,Desktop
+1401,Producto A,Hogar,66.5,133,Sofia,42,H,Ciudad C,Producto A,10/09/23,3,4,17,0,20,PayPal,Mensual,Tablet
+1818,Producto A,Hogar,434.59,100,Carlos,36,H,Ciudad B,Producto C,5/03/23,6,1,1,0,20,Efectivo,Semanal,Tablet
+1205,Producto A,Electronica,343.11,147,Luis,58,M,Ciudad C,"Producto D,Producto B,Producto C",18/08/23,4,5,18,0,20,Transferencia,Mensual,Tablet
+1684,Producto B,Hogar,123.56,116,Juan,45,H,Ciudad C,Producto A,27/01/23,3,5,12,0,0,Tarjeta,Trimestral,Móvil
+1335,Producto D,Ropa,71.21,113,Carlos,27,H,Ciudad C,"Producto A,Producto C",27/10/23,7,5,3,1,15,Efectivo,Semanal,Móvil
+1990,Producto D,Ropa,42.44,178,Sofia,66,H,Ciudad B,"Producto B,Producto B,Producto C,Producto C",26/02/23,8,3,9,0,10,Tarjeta,Semanal,Móvil
+1488,Producto A,Juguetes,97.55,197,Maria,19,H,Ciudad A,Producto D,24/06/23,2,4,3,0,10,Efectivo,Mensual,Tablet
+1202,Producto A,Hogar,229.23,154,Juan,53,H,Ciudad A,"Producto D,Producto B,Producto C",15/09/23,2,2,9,0,20,Tarjeta,Mensual,Tablet
+1216,Producto A,Ropa,179.67,177,Maria,48,M,Ciudad B,"Producto B,Producto D",3/10/23,9,2,13,0,20,Tarjeta,Semanal,Móvil
+1288,Producto A,Ropa,409.15,157,Sofia,27,M,Ciudad A,Producto B,18/12/23,1,3,9,0,5,Transferencia,Mensual,Desktop
+1495,Producto D,Hogar,283.22,140,Carlos,48,H,Ciudad C,"Producto B,Producto B",8/07/23,6,4,8,1,0,Transferencia,Trimestral,Móvil
+1640,Producto B,Hogar,342.03,184,Maria,52,M,Ciudad A,Producto D,26/12/23,7,5,14,0,15,Efectivo,Semanal,Móvil
+1786,Producto B,Juguetes,92.36,112,Carlos,42,H,Ciudad C,"Producto A,Producto A,Producto A,Producto D",9/05/23,2,3,13,0,15,Efectivo,Semanal,Móvil
+1187,Producto C,Juguetes,388.2,155,Juan,30,H,Ciudad B,"Producto A,Producto D,Producto D,Producto A",14/04/23,4,3,5,0,20,Transferencia,Semanal,Móvil
+1788,Producto C,Hogar,52.93,142,Carlos,45,M,Ciudad C,"Producto A,Producto C,Producto C,Producto C",20/12/23,9,2,6,0,15,Transferencia,Trimestral,Tablet
+1884,Producto B,Hogar,371.66,180,Carlos,50,M,Ciudad A,"Producto D,Producto A,Producto D",3/11/23,6,1,17,0,0,Tarjeta,Trimestral,Desktop
+1499,Producto A,Ropa,341.4,142,Maria,62,H,Ciudad B,"Producto A,Producto D",24/05/23,7,1,14,0,0,PayPal,Trimestral,Móvil
+1820,Producto C,Ropa,159.05,196,Luis,60,M,Ciudad B,"Producto C,Producto C,Producto C",3/02/23,2,5,6,0,20,Tarjeta,Mensual,Móvil
+1490,Producto B,Electronica,488.12,194,Sofia,66,M,Ciudad A,Producto D,13/12/23,5,5,11,0,20,Tarjeta,Mensual,Tablet
+1498,Producto C,Electronica,337.54,142,Maria,53,H,Ciudad C,"Producto B,Producto C",26/11/23,9,4,17,0,20,Efectivo,Trimestral,Tablet
+1792,Producto C,Ropa,249.86,148,Maria,34,M,Ciudad C,"Producto A,Producto D",24/03/23,1,1,10,0,15,PayPal,Mensual,Tablet
+1282,Producto B,Ropa,483.36,197,Carlos,61,M,Ciudad C,Producto B,3/02/23,2,1,2,1,0,Transferencia,Semanal,Móvil
+1817,Producto C,Ropa,68.97,174,Ana,49,H,Ciudad C,"Producto C,Producto D",22/05/23,6,3,11,0,0,PayPal,Trimestral,Tablet
+1767,Producto A,Hogar,397.47,148,Luis,42,M,Ciudad B,"Producto D,Producto C",17/03/23,9,1,8,1,0,PayPal,Mensual,Desktop
+1656,Producto C,Juguetes,168.07,157,Carlos,57,M,Ciudad A,"Producto C,Producto B,Producto C,Producto C",15/12/23,5,1,11,0,20,Tarjeta,Trimestral,Tablet
+1230,Producto B,Electronica,203.95,166,Luis,43,H,Ciudad A,"Producto C,Producto D",24/07/23,5,5,15,0,10,PayPal,Trimestral,Tablet
+1018,Producto C,Ropa,180.56,144,Luis,45,H,Ciudad A,"Producto B,Producto D",26/10/23,4,1,6,0,20,PayPal,Semanal,Tablet
+1236,Producto C,Ropa,187.14,155,Juan,21,H,Ciudad A,"Producto B,Producto C,Producto B",16/01/23,4,1,1,0,0,Efectivo,Mensual,Desktop
+1395,Producto B,Hogar,33.1,158,Juan,37,H,Ciudad A,"Producto D,Producto B",28/11/23,2,2,16,0,20,Tarjeta,Semanal,Tablet
+1394,Producto A,Juguetes,470.14,157,Luis,52,H,Ciudad B,Producto D,30/10/23,9,4,16,0,20,Transferencia,Semanal,Móvil
+1777,Producto C,Electronica,249.43,131,Ana,38,H,Ciudad A,Producto B,3/05/23,1,5,17,0,5,Tarjeta,Semanal,Móvil
+1605,Producto A,Juguetes,81.4,174,Luis,61,M,Ciudad A,"Producto B,Producto B,Producto C,Producto B",15/09/23,4,1,6,0,20,Tarjeta,Semanal,Móvil
+1952,Producto A,Ropa,432.38,135,Sofia,53,H,Ciudad C,Producto D,21/05/23,8,1,16,0,5,PayPal,Semanal,Móvil
+1876,Producto A,Ropa,127.02,115,Maria,60,M,Ciudad C,Producto B,26/11/23,4,3,3,0,20,PayPal,Trimestral,Desktop
+1342,Producto B,Electronica,469.18,193,Juan,48,M,Ciudad A,"Producto C,Producto B,Producto D",17/07/23,9,1,1,0,20,Efectivo,Semanal,Móvil
+1598,Producto A,Electronica,171.91,187,Juan,27,H,Ciudad B,"Producto B,Producto D,Producto B",4/06/23,9,4,13,0,20,Transferencia,Trimestral,Tablet
+1304,Producto B,Hogar,301.14,145,Ana,67,M,Ciudad A,"Producto B,Producto B,Producto B",25/01/23,4,4,12,0,15,PayPal,Trimestral,Móvil
+1568,Producto D,Hogar,270.75,185,Juan,19,M,Ciudad B,"Producto A,Producto A,Producto C",3/06/23,6,1,8,0,5,PayPal,Mensual,Móvil
+1911,Producto B,Hogar,307.41,155,Juan,58,H,Ciudad B,"Producto D,Producto D",23/03/23,7,4,6,0,10,PayPal,Mensual,Tablet
+1206,Producto A,Ropa,24.42,186,Sofia,52,M,Ciudad B,"Producto D,Producto D,Producto B",8/08/23,9,2,4,1,5,Efectivo,Semanal,Tablet
+1153,Producto A,Ropa,109.66,174,Juan,47,M,Ciudad B,"Producto C,Producto A,Producto A,Producto C",30/03/23,5,3,12,1,10,Tarjeta,Trimestral,Desktop
+1869,Producto B,Ropa,467.65,199,Sofia,18,H,Ciudad A,"Producto A,Producto A,Producto B",8/06/23,6,4,8,0,5,Transferencia,Trimestral,Desktop
+1937,Producto A,Hogar,483.14,173,Juan,36,M,Ciudad B,"Producto B,Producto A,Producto B",19/05/23,9,1,3,0,5,Transferencia,Mensual,Móvil
+1113,Producto A,Hogar,488.91,153,Luis,32,H,Ciudad A,"Producto A,Producto A,Producto B",12/02/23,2,5,14,1,20,Transferencia,Mensual,Móvil
+1765,Producto C,Ropa,201.8,184,Ana,33,M,Ciudad A,"Producto A,Producto B,Producto B",21/06/23,2,4,4,1,5,PayPal,Semanal,Tablet
+1275,Producto A,Ropa,124.36,183,Juan,50,H,Ciudad A,"Producto A,Producto A,Producto B,Producto D",5/07/23,8,4,15,0,15,Transferencia,Trimestral,Desktop
+1348,Producto A,Electronica,396.57,180,Sofia,29,M,Ciudad A,"Producto B,Producto D",15/09/23,1,4,12,1,5,PayPal,Semanal,Móvil
+1209,Producto A,Electronica,298.25,112,Luis,47,H,Ciudad B,"Producto A,Producto B,Producto C",3/04/23,7,2,8,0,0,PayPal,Mensual,Desktop
+1165,Producto A,Juguetes,215.6,196,Maria,53,M,Ciudad C,Producto C,11/01/23,7,3,19,1,20,Transferencia,Semanal,Desktop
+1948,Producto B,Hogar,472.7,115,Maria,36,M,Ciudad B,Producto C,15/08/23,7,1,9,0,0,Tarjeta,Semanal,Desktop
+1819,Producto A,Hogar,402.29,111,Luis,21,H,Ciudad B,"Producto C,Producto B,Producto A",12/06/23,7,5,2,0,15,Tarjeta,Mensual,Móvil
+1082,Producto D,Ropa,193.15,199,Carlos,63,M,Ciudad A,"Producto B,Producto D,Producto D",9/03/23,7,4,16,0,5,Efectivo,Semanal,Tablet
+1304,Producto A,Hogar,211.73,145,Maria,69,M,Ciudad A,Producto C,8/10/23,9,1,19,0,5,Efectivo,Semanal,Móvil
+1807,Producto B,Hogar,400.68,199,Juan,49,H,Ciudad A,Producto C,9/09/23,5,3,1,0,5,PayPal,Trimestral,Tablet
+1067,Producto D,Ropa,61.89,106,Carlos,41,H,Ciudad B,"Producto B,Producto C",27/07/23,3,3,11,0,0,Transferencia,Semanal,Desktop
+1074,Producto D,Hogar,33.16,182,Juan,51,H,Ciudad C,"Producto A,Producto A,Producto A",19/06/23,2,5,2,0,20,PayPal,Semanal,Tablet
+1412,Producto A,Juguetes,110.18,170,Carlos,46,H,Ciudad B,"Producto C,Producto D,Producto C",24/03/23,8,4,15,0,20,Tarjeta,Trimestral,Móvil
+1791,Producto C,Juguetes,451.01,111,Sofia,47,H,Ciudad B,"Producto B,Producto D,Producto C",2/01/23,9,1,19,1,0,Transferencia,Trimestral,Tablet
+1238,Producto D,Electronica,356.58,133,Ana,46,H,Ciudad A,"Producto B,Producto C,Producto C",22/01/23,8,2,5,0,5,Tarjeta,Semanal,Móvil
+1674,Producto B,Ropa,158.88,145,Ana,21,M,Ciudad C,"Producto A,Producto C,Producto B",14/04/23,4,3,16,0,10,Tarjeta,Semanal,Móvil
+1874,Producto D,Electronica,337.36,193,Luis,18,H,Ciudad A,"Producto A,Producto A,Producto B",9/10/23,5,5,19,0,10,Efectivo,Semanal,Desktop
+1004,Producto B,Juguetes,234.82,170,Juan,28,H,Ciudad B,Producto A,22/10/23,5,5,4,0,10,PayPal,Semanal,Móvil
+1426,Producto D,Juguetes,151.51,104,Maria,56,M,Ciudad C,"Producto A,Producto D,Producto D,Producto B",27/03/23,1,5,13,0,0,Tarjeta,Semanal,Desktop
+1558,Producto C,Hogar,124.22,111,Juan,39,H,Ciudad B,"Producto B,Producto D",27/11/23,7,3,10,1,20,Tarjeta,Semanal,Tablet
+1020,Producto A,Hogar,209.3,112,Juan,66,M,Ciudad C,"Producto C,Producto C,Producto B",24/02/23,5,4,5,0,20,Transferencia,Trimestral,Móvil
+1390,Producto C,Juguetes,84.15,193,Sofia,30,H,Ciudad A,Producto B,2/10/23,8,5,1,0,20,Tarjeta,Trimestral,Desktop
+1259,Producto B,Hogar,87.52,180,Sofia,66,M,Ciudad A,Producto C,29/06/23,6,4,15,0,0,Transferencia,Semanal,Móvil
+1716,Producto D,Hogar,109.76,127,Juan,52,H,Ciudad B,"Producto C,Producto C,Producto B",7/11/23,7,4,9,0,5,Tarjeta,Mensual,Desktop
+1557,Producto B,Electronica,224.92,103,Maria,46,M,Ciudad A,Producto A,24/04/23,9,3,3,0,20,Transferencia,Mensual,Tablet
+1901,Producto D,Ropa,22.65,110,Luis,67,H,Ciudad C,"Producto D,Producto C",11/02/23,6,1,19,0,5,Efectivo,Semanal,Desktop
+1782,Producto A,Ropa,16.48,103,Sofia,19,M,Ciudad A,"Producto D,Producto D,Producto C",7/03/23,5,2,8,0,0,Tarjeta,Mensual,Desktop
+1277,Producto B,Hogar,241.73,123,Juan,32,H,Ciudad A,"Producto A,Producto D,Producto C",21/08/23,5,4,1,0,15,Efectivo,Trimestral,Tablet
+1932,Producto D,Juguetes,488.65,129,Sofia,55,H,Ciudad A,"Producto A,Producto B,Producto D",13/06/23,6,5,10,1,5,Transferencia,Trimestral,Móvil
+1476,Producto D,Hogar,278.66,108,Maria,69,M,Ciudad C,Producto D,23/03/23,7,5,11,1,15,Efectivo,Trimestral,Tablet
+1510,Producto C,Ropa,218.44,166,Carlos,37,M,Ciudad A,"Producto D,Producto A,Producto B",23/05/23,2,3,5,0,5,Efectivo,Semanal,Móvil
+1520,Producto B,Juguetes,208.66,197,Maria,57,M,Ciudad C,"Producto B,Producto C,Producto D,Producto D",15/11/23,6,4,4,1,5,Tarjeta,Semanal,Móvil
+1289,Producto D,Hogar,314.93,149,Luis,38,H,Ciudad C,"Producto D,Producto A,Producto B,Producto C",18/06/23,3,5,2,0,0,PayPal,Trimestral,Tablet
+1539,Producto A,Hogar,375.0,102,Carlos,28,H,Ciudad C,Producto B,8/11/23,9,1,6,0,0,Efectivo,Trimestral,Móvil
+1689,Producto B,Electronica,365.73,136,Maria,29,H,Ciudad B,"Producto B,Producto C,Producto B,Producto A",7/02/23,1,4,7,0,10,Tarjeta,Trimestral,Desktop
+1292,Producto C,Hogar,133.15,126,Sofia,42,H,Ciudad C,"Producto C,Producto A,Producto C",13/12/23,1,2,6,1,5,Efectivo,Trimestral,Tablet
+1862,Producto C,Hogar,257.09,120,Ana,31,H,Ciudad C,Producto D,16/12/23,4,3,3,0,10,PayPal,Mensual,Tablet
+1754,Producto B,Hogar,301.99,168,Luis,56,M,Ciudad C,"Producto D,Producto D,Producto A",25/03/23,4,5,17,1,20,Efectivo,Mensual,Desktop
+1732,Producto D,Juguetes,229.73,174,Carlos,41,H,Ciudad B,Producto A,20/07/23,9,5,14,0,0,Transferencia,Mensual,Tablet
+1541,Producto D,Hogar,345.1,175,Luis,40,M,Ciudad C,"Producto A,Producto B",30/10/23,2,4,10,0,10,Efectivo,Semanal,Móvil
+1841,Producto C,Electronica,157.73,128,Sofia,46,H,Ciudad A,"Producto D,Producto A",28/01/23,1,1,9,0,5,PayPal,Mensual,Desktop
+1851,Producto B,Electronica,70.61,100,Luis,28,H,Ciudad A,Producto A,28/09/23,3,5,18,0,0,PayPal,Semanal,Móvil
+1608,Producto D,Electronica,257.02,187,Ana,63,H,Ciudad A,"Producto B,Producto B,Producto B,Producto C",17/02/23,3,4,5,0,5,Tarjeta,Semanal,Tablet
+1388,Producto B,Ropa,201.35,120,Luis,44,M,Ciudad C,"Producto C,Producto C,Producto C",11/10/23,2,4,16,0,15,PayPal,Mensual,Desktop
+1394,Producto B,Ropa,210.34,154,Juan,57,M,Ciudad A,"Producto D,Producto B,Producto D",12/05/23,2,1,19,0,15,Tarjeta,Semanal,Desktop
+1007,Producto B,Ropa,111.39,194,Juan,46,H,Ciudad A,Producto A,29/03/23,9,4,12,0,15,Efectivo,Mensual,Tablet
+1558,Producto C,Electronica,409.24,145,Sofia,44,H,Ciudad A,"Producto C,Producto B,Producto C,Producto B",2/11/23,3,2,17,0,20,Tarjeta,Semanal,Móvil
+1907,Producto D,Electronica,426.11,118,Maria,67,M,Ciudad A,Producto C,18/06/23,8,2,5,0,0,Efectivo,Trimestral,Móvil
+1272,Producto A,Ropa,205.6,136,Ana,34,M,Ciudad B,"Producto B,Producto D,Producto C,Producto C",8/03/23,5,5,1,0,10,Transferencia,Mensual,Móvil
+1738,Producto C,Electronica,267.84,116,Juan,66,M,Ciudad B,"Producto D,Producto B,Producto D,Producto A",26/02/23,7,4,9,0,20,Efectivo,Semanal,Tablet
+1090,Producto B,Electronica,216.68,133,Ana,67,M,Ciudad A,Producto C,26/05/23,5,2,12,1,0,Transferencia,Semanal,Móvil
+1356,Producto C,Hogar,396.04,165,Sofia,45,H,Ciudad B,Producto B,5/03/23,8,2,10,1,5,Tarjeta,Trimestral,Tablet
+1981,Producto B,Electronica,235.64,109,Juan,50,M,Ciudad B,"Producto A,Producto B,Producto B,Producto D",21/03/23,7,4,13,0,15,Tarjeta,Mensual,Móvil
+1246,Producto D,Hogar,382.84,137,Juan,40,M,Ciudad B,Producto D,13/02/23,3,4,10,0,0,PayPal,Trimestral,Móvil
+1465,Producto A,Electronica,366.53,133,Carlos,29,H,Ciudad C,"Producto A,Producto A,Producto B",10/06/23,9,3,14,0,20,Efectivo,Trimestral,Tablet
+1680,Producto A,Hogar,303.91,173,Luis,56,H,Ciudad B,Producto D,3/11/23,6,1,8,0,15,Efectivo,Mensual,Móvil
+1557,Producto B,Juguetes,11.18,156,Sofia,60,M,Ciudad B,"Producto D,Producto A",17/07/23,9,2,17,0,20,Efectivo,Trimestral,Móvil
+1240,Producto D,Juguetes,170.42,197,Ana,67,M,Ciudad B,"Producto A,Producto A",23/07/23,1,5,14,0,15,PayPal,Trimestral,Desktop
+1515,Producto D,Juguetes,122.91,150,Juan,61,M,Ciudad B,Producto A,12/12/23,7,4,2,0,5,Transferencia,Mensual,Tablet
+1270,Producto C,Ropa,409.6,181,Maria,25,H,Ciudad B,"Producto C,Producto B",5/07/23,7,1,6,0,20,Transferencia,Mensual,Tablet
+1200,Producto C,Ropa,176.27,199,Ana,68,M,Ciudad C,"Producto C,Producto D,Producto A",25/05/23,8,2,14,0,20,Tarjeta,Mensual,Tablet
+1528,Producto D,Hogar,490.06,104,Luis,38,M,Ciudad B,"Producto C,Producto A,Producto D,Producto D",10/12/23,6,2,13,0,10,Tarjeta,Mensual,Móvil
+1656,Producto A,Ropa,344.14,127,Sofia,39,H,Ciudad B,"Producto B,Producto C,Producto C,Producto A",26/08/23,5,1,13,1,5,Transferencia,Semanal,Desktop
+1775,Producto D,Ropa,29.01,117,Maria,54,H,Ciudad B,Producto A,4/06/23,2,3,3,0,0,Transferencia,Mensual,Tablet
+1126,Producto D,Juguetes,20.89,142,Luis,57,H,Ciudad C,"Producto C,Producto B,Producto A",19/08/23,7,4,17,0,10,Transferencia,Trimestral,Móvil
+1276,Producto A,Ropa,114.77,118,Ana,46,M,Ciudad C,"Producto C,Producto A,Producto C",14/01/23,7,1,15,0,10,Transferencia,Mensual,Móvil
+1392,Producto D,Electronica,351.51,145,Sofia,64,H,Ciudad B,"Producto D,Producto C,Producto A,Producto C",3/10/23,5,2,12,0,5,Efectivo,Semanal,Móvil
+1195,Producto C,Hogar,127.4,112,Juan,19,M,Ciudad A,"Producto D,Producto A,Producto C",5/11/23,8,3,16,0,10,PayPal,Trimestral,Móvil
+1846,Producto D,Hogar,258.1,184,Sofia,52,M,Ciudad B,"Producto B,Producto A,Producto B",6/04/23,6,3,18,1,15,Efectivo,Mensual,Desktop
+1228,Producto B,Ropa,323.54,109,Sofia,27,H,Ciudad B,Producto C,13/07/23,9,1,19,1,15,Efectivo,Trimestral,Móvil
+1895,Producto C,Hogar,241.88,165,Juan,50,M,Ciudad A,Producto D,3/02/23,5,5,13,0,10,Tarjeta,Semanal,Desktop
+1028,Producto B,Electronica,474.62,112,Ana,44,M,Ciudad B,Producto A,25/10/23,3,1,15,0,20,Transferencia,Trimestral,Móvil
+1874,Producto B,Ropa,102.0,139,Maria,49,H,Ciudad B,Producto B,22/04/23,5,3,13,0,10,Efectivo,Mensual,Tablet
+1931,Producto B,Electronica,341.75,169,Juan,64,H,Ciudad C,"Producto D,Producto D,Producto A",27/06/23,5,5,3,0,15,Tarjeta,Trimestral,Tablet
+1153,Producto A,Ropa,310.51,171,Juan,44,M,Ciudad A,"Producto B,Producto D,Producto A",26/01/23,9,3,7,0,10,Transferencia,Trimestral,Tablet
+1571,Producto C,Ropa,190.5,149,Carlos,36,H,Ciudad B,Producto D,17/03/23,7,2,3,1,20,PayPal,Trimestral,Desktop
+1744,Producto C,Hogar,51.63,146,Juan,50,H,Ciudad A,Producto A,21/11/23,3,2,5,1,0,PayPal,Trimestral,Desktop
+1144,Producto B,Ropa,80.1,175,Maria,56,M,Ciudad A,"Producto A,Producto C,Producto D",12/01/23,5,4,18,0,20,Efectivo,Mensual,Tablet
+1775,Producto D,Ropa,243.31,138,Carlos,37,H,Ciudad A,"Producto B,Producto D",28/06/23,9,5,17,0,5,PayPal,Mensual,Móvil
+1556,Producto D,Electronica,130.3,100,Carlos,61,M,Ciudad A,Producto B,23/05/23,2,2,10,0,20,PayPal,Trimestral,Tablet
+1066,Producto B,Hogar,242.55,132,Luis,49,H,Ciudad A,"Producto C,Producto D,Producto D,Producto A",17/06/23,4,5,1,0,20,PayPal,Trimestral,Móvil
+1949,Producto C,Electronica,360.72,156,Juan,59,H,Ciudad B,Producto B,19/04/23,9,5,8,0,0,Tarjeta,Trimestral,Móvil
+1794,Producto A,Hogar,303.83,131,Luis,43,M,Ciudad A,"Producto C,Producto D",2/09/23,3,5,14,0,10,Tarjeta,Semanal,Tablet
+1974,Producto D,Juguetes,221.45,140,Juan,66,H,Ciudad C,"Producto C,Producto C,Producto D,Producto A",14/06/23,5,4,13,1,10,PayPal,Trimestral,Tablet
+1698,Producto D,Ropa,385.46,125,Ana,67,M,Ciudad A,"Producto C,Producto C",4/04/23,9,5,12,0,15,PayPal,Trimestral,Móvil
+1872,Producto C,Juguetes,460.88,193,Luis,66,H,Ciudad C,Producto A,21/12/23,2,5,19,0,15,PayPal,Mensual,Tablet
+1655,Producto D,Ropa,300.07,109,Luis,36,H,Ciudad A,"Producto A,Producto A,Producto D,Producto D",12/02/23,5,1,9,0,5,Tarjeta,Trimestral,Móvil
+1601,Producto A,Electronica,188.63,184,Juan,45,M,Ciudad A,"Producto C,Producto A",17/10/23,6,5,10,1,10,PayPal,Semanal,Desktop
+1531,Producto B,Juguetes,60.97,154,Ana,49,M,Ciudad A,"Producto C,Producto A",19/01/23,5,5,2,1,20,Efectivo,Mensual,Tablet
+1000,Producto A,Juguetes,66.1,105,Ana,58,M,Ciudad B,"Producto A,Producto C,Producto A",12/02/23,8,5,16,0,0,PayPal,Mensual,Móvil
+1470,Producto D,Juguetes,491.92,150,Maria,29,H,Ciudad C,Producto A,9/03/23,6,2,4,0,5,Tarjeta,Semanal,Desktop
+1959,Producto B,Electronica,160.16,189,Maria,56,H,Ciudad C,"Producto A,Producto B,Producto C",24/10/23,2,1,2,0,20,Efectivo,Semanal,Móvil
+1403,Producto D,Juguetes,434.0,164,Juan,36,H,Ciudad A,"Producto C,Producto C,Producto A,Producto C",3/02/23,3,3,13,0,10,Efectivo,Trimestral,Desktop
+1594,Producto C,Ropa,202.83,142,Carlos,67,H,Ciudad A,Producto B,8/02/23,8,4,4,1,10,Tarjeta,Mensual,Móvil
+1530,Producto B,Electronica,259.58,173,Ana,56,M,Ciudad B,"Producto B,Producto C,Producto D,Producto C",19/05/23,5,3,16,0,10,Efectivo,Semanal,Tablet
+1256,Producto D,Juguetes,476.48,142,Maria,30,M,Ciudad C,"Producto A,Producto A",5/08/23,5,4,9,0,5,Transferencia,Mensual,Móvil
+1655,Producto A,Juguetes,368.29,134,Maria,65,H,Ciudad C,Producto B,28/01/23,4,4,14,0,20,Tarjeta,Semanal,Móvil
+1761,Producto D,Electronica,178.87,199,Juan,68,H,Ciudad C,Producto D,11/05/23,4,4,10,0,20,PayPal,Semanal,Desktop
+1174,Producto C,Electronica,289.39,167,Ana,57,H,Ciudad B,"Producto D,Producto C",12/08/23,6,3,15,0,5,Transferencia,Semanal,Desktop
+1131,Producto C,Electronica,379.01,149,Sofia,53,H,Ciudad B,"Producto A,Producto B,Producto D,Producto D",26/04/23,1,3,12,0,10,Tarjeta,Semanal,Desktop
+1888,Producto B,Electronica,446.97,113,Carlos,64,M,Ciudad C,Producto D,15/05/23,9,2,7,1,5,Tarjeta,Trimestral,Móvil
+1127,Producto D,Juguetes,383.14,131,Carlos,37,H,Ciudad A,"Producto B,Producto A,Producto A",29/04/23,4,1,6,0,5,PayPal,Mensual,Tablet
+1551,Producto C,Juguetes,300.73,169,Maria,67,H,Ciudad C,"Producto A,Producto C,Producto C",1/07/23,4,1,11,0,10,Tarjeta,Trimestral,Desktop
+1241,Producto A,Hogar,472.85,143,Juan,59,H,Ciudad A,"Producto B,Producto C",10/05/23,1,1,5,0,10,PayPal,Trimestral,Desktop
+1857,Producto A,Juguetes,225.33,100,Juan,27,M,Ciudad B,Producto A,30/08/23,5,4,2,0,5,Efectivo,Mensual,Desktop
+1904,Producto B,Ropa,295.51,140,Sofia,36,H,Ciudad B,Producto D,28/09/23,5,1,3,0,15,Efectivo,Semanal,Móvil
+1683,Producto B,Electronica,438.56,135,Juan,40,H,Ciudad B,"Producto D,Producto A",27/10/23,8,4,14,0,20,Transferencia,Trimestral,Desktop
+1709,Producto D,Juguetes,163.28,152,Sofia,35,H,Ciudad A,"Producto A,Producto C,Producto C",6/01/23,4,2,10,1,20,Tarjeta,Semanal,Desktop
+1513,Producto A,Electronica,282.45,129,Ana,57,M,Ciudad A,"Producto B,Producto D,Producto D,Producto C",21/08/23,3,3,14,1,5,Tarjeta,Trimestral,Tablet
+1123,Producto D,Electronica,381.92,128,Maria,43,M,Ciudad B,"Producto B,Producto D,Producto B",2/07/23,9,2,18,0,0,Efectivo,Semanal,Desktop
+1183,Producto D,Electronica,15.24,119,Juan,57,M,Ciudad C,"Producto A,Producto B,Producto A",30/07/23,2,3,7,0,20,Tarjeta,Trimestral,Tablet
+1546,Producto C,Ropa,327.81,153,Carlos,39,H,Ciudad A,"Producto A,Producto C",29/03/23,7,3,1,0,10,Transferencia,Mensual,Móvil
+1245,Producto C,Ropa,200.3,107,Sofia,18,H,Ciudad A,"Producto D,Producto D",13/02/23,1,4,10,0,10,Efectivo,Trimestral,Desktop
+1044,Producto C,Electronica,107.19,162,Sofia,54,H,Ciudad C,"Producto C,Producto B,Producto A",2/08/23,1,2,15,0,0,Transferencia,Mensual,Tablet
+1662,Producto A,Hogar,380.96,137,Juan,43,M,Ciudad C,"Producto A,Producto A",4/01/23,8,4,5,0,20,PayPal,Semanal,Desktop
+1942,Producto C,Hogar,318.33,197,Juan,56,M,Ciudad B,"Producto B,Producto B,Producto D,Producto D",13/01/23,3,1,16,0,5,Efectivo,Mensual,Tablet
+1668,Producto C,Ropa,333.01,173,Juan,43,H,Ciudad B,Producto C,2/05/23,5,5,10,0,15,PayPal,Mensual,Desktop
+1106,Producto C,Ropa,145.33,135,Luis,31,M,Ciudad C,"Producto D,Producto C",25/03/23,9,1,18,0,5,Transferencia,Mensual,Desktop
+1853,Producto C,Hogar,294.32,136,Ana,60,M,Ciudad A,"Producto C,Producto A,Producto D,Producto D",21/04/23,4,1,19,0,10,Efectivo,Mensual,Móvil
+1314,Producto A,Juguetes,379.86,190,Carlos,55,H,Ciudad C,Producto B,9/11/23,3,1,19,1,10,Efectivo,Semanal,Desktop
+1086,Producto B,Ropa,441.06,113,Maria,42,M,Ciudad C,"Producto A,Producto B,Producto A,Producto C",12/06/23,4,2,8,0,10,Efectivo,Trimestral,Móvil
+1041,Producto A,Hogar,217.34,124,Sofia,69,M,Ciudad B,"Producto B,Producto D,Producto C",17/06/23,5,5,13,0,5,Tarjeta,Semanal,Móvil
+1829,Producto D,Ropa,479.94,122,Sofia,54,M,Ciudad B,"Producto D,Producto B,Producto A,Producto D",9/11/23,3,2,1,0,5,Transferencia,Semanal,Desktop
+1185,Producto A,Ropa,220.76,155,Carlos,48,H,Ciudad A,"Producto B,Producto B,Producto C",4/10/23,4,3,11,0,10,Transferencia,Semanal,Desktop
+1460,Producto D,Hogar,262.4,100,Luis,39,M,Ciudad B,Producto B,21/07/23,3,3,11,1,10,Transferencia,Trimestral,Tablet
+1298,Producto A,Juguetes,170.98,133,Ana,40,M,Ciudad B,Producto C,1/04/23,9,5,19,0,20,Transferencia,Mensual,Desktop
+1161,Producto B,Juguetes,425.88,107,Luis,22,M,Ciudad C,"Producto B,Producto A",15/11/23,6,3,15,0,0,Efectivo,Mensual,Tablet
+1056,Producto D,Juguetes,81.07,144,Carlos,60,H,Ciudad C,"Producto A,Producto C,Producto C,Producto B",13/08/23,1,4,9,0,20,Efectivo,Semanal,Desktop
+1033,Producto D,Electronica,384.81,158,Sofia,52,M,Ciudad B,"Producto B,Producto A,Producto B,Producto C",27/12/23,7,3,18,0,5,Efectivo,Mensual,Desktop
+1403,Producto C,Ropa,321.91,145,Luis,54,H,Ciudad B,"Producto A,Producto A,Producto B",20/11/23,3,3,3,0,5,Tarjeta,Mensual,Desktop
+1785,Producto D,Electronica,232.86,140,Luis,22,H,Ciudad B,Producto C,14/11/23,4,2,18,1,20,Transferencia,Semanal,Desktop
+1977,Producto C,Hogar,312.64,154,Juan,55,H,Ciudad C,"Producto B,Producto C",10/10/23,1,5,9,0,0,Transferencia,Semanal,Desktop
+1292,Producto D,Electronica,30.61,133,Ana,23,H,Ciudad C,Producto A,22/06/23,6,1,9,1,15,Efectivo,Mensual,Móvil
+1652,Producto D,Electronica,148.49,119,Maria,43,H,Ciudad C,"Producto D,Producto D,Producto D",24/06/23,4,4,10,0,20,PayPal,Semanal,Desktop
+1469,Producto C,Ropa,385.96,195,Maria,68,M,Ciudad B,"Producto B,Producto A,Producto B,Producto C",22/05/23,1,4,6,1,5,Efectivo,Mensual,Desktop
+1499,Producto B,Electronica,428.24,110,Carlos,68,H,Ciudad A,"Producto D,Producto D,Producto A",20/10/23,4,4,10,0,5,Tarjeta,Trimestral,Tablet
+1586,Producto B,Ropa,299.76,140,Sofia,38,H,Ciudad A,"Producto D,Producto D,Producto D,Producto B",9/01/23,7,4,1,0,20,Efectivo,Trimestral,Tablet
+1190,Producto C,Hogar,136.46,106,Ana,43,H,Ciudad B,"Producto C,Producto B,Producto A",26/10/23,3,5,10,0,15,Efectivo,Trimestral,Desktop
+1813,Producto C,Juguetes,337.76,174,Carlos,37,H,Ciudad A,"Producto B,Producto A,Producto C,Producto C",11/03/23,2,5,7,0,10,PayPal,Mensual,Móvil
+1225,Producto B,Hogar,310.42,124,Maria,53,H,Ciudad B,"Producto B,Producto D",26/09/23,2,5,15,0,10,Tarjeta,Mensual,Tablet
+1825,Producto B,Electronica,195.36,108,Carlos,54,M,Ciudad A,"Producto A,Producto C",27/01/23,6,4,4,0,10,Tarjeta,Semanal,Móvil
+1422,Producto A,Ropa,471.49,185,Juan,58,H,Ciudad B,"Producto B,Producto D,Producto A",14/01/23,5,3,12,0,5,Tarjeta,Semanal,Desktop
+1350,Producto D,Ropa,214.04,133,Ana,42,M,Ciudad A,"Producto C,Producto A,Producto A",16/08/23,2,1,2,1,15,Tarjeta,Trimestral,Móvil
+1453,Producto C,Ropa,200.69,123,Luis,21,M,Ciudad C,"Producto A,Producto C,Producto D",23/02/23,8,3,18,0,0,Tarjeta,Semanal,Tablet
+1723,Producto C,Juguetes,407.54,145,Carlos,66,M,Ciudad A,Producto D,21/04/23,6,4,11,0,5,Transferencia,Semanal,Desktop
+1338,Producto A,Juguetes,88.44,117,Sofia,53,M,Ciudad A,"Producto A,Producto A,Producto D",10/07/23,5,2,8,1,0,PayPal,Semanal,Móvil
+1591,Producto A,Ropa,16.96,169,Carlos,36,M,Ciudad A,Producto A,23/12/23,6,5,12,0,5,Efectivo,Mensual,Móvil
+1838,Producto B,Juguetes,213.86,128,Juan,45,H,Ciudad C,Producto A,13/02/23,9,2,19,0,5,PayPal,Mensual,Desktop
+1428,Producto B,Juguetes,282.3,186,Juan,23,M,Ciudad C,Producto D,5/08/23,7,4,11,0,5,Tarjeta,Semanal,Desktop
+1242,Producto B,Electronica,216.42,152,Carlos,58,H,Ciudad A,"Producto D,Producto A",18/09/23,9,1,3,1,0,PayPal,Semanal,Tablet
+1410,Producto B,Hogar,115.26,158,Carlos,30,M,Ciudad A,"Producto D,Producto C",14/08/23,9,1,5,0,10,PayPal,Trimestral,Tablet
+1280,Producto D,Electronica,39.18,184,Juan,44,M,Ciudad B,"Producto D,Producto D,Producto B,Producto D",30/05/23,1,1,10,1,10,PayPal,Trimestral,Móvil
+1913,Producto C,Electronica,409.65,103,Maria,40,M,Ciudad B,"Producto A,Producto C",16/07/23,1,4,13,1,20,Transferencia,Mensual,Móvil
+1782,Producto A,Ropa,145.39,138,Luis,29,M,Ciudad A,Producto B,27/07/23,8,1,12,0,5,Tarjeta,Semanal,Móvil
+1484,Producto C,Juguetes,378.42,188,Sofia,58,M,Ciudad C,"Producto D,Producto D,Producto A",8/12/23,3,3,18,0,10,Transferencia,Semanal,Tablet
+1760,Producto D,Juguetes,448.86,109,Carlos,62,M,Ciudad A,"Producto C,Producto B",19/05/23,8,4,8,0,20,PayPal,Mensual,Móvil
+1031,Producto B,Electronica,391.62,106,Ana,52,M,Ciudad C,"Producto D,Producto D",17/02/23,2,2,15,0,5,PayPal,Semanal,Móvil
+1204,Producto C,Electronica,362.46,114,Luis,49,H,Ciudad C,"Producto D,Producto D,Producto C",13/08/23,7,1,3,1,10,PayPal,Mensual,Móvil
+1052,Producto B,Ropa,452.88,188,Carlos,62,M,Ciudad A,Producto A,21/06/23,9,1,13,0,5,Efectivo,Semanal,Desktop
+1710,Producto D,Electronica,475.28,111,Sofia,31,H,Ciudad A,"Producto A,Producto B,Producto B,Producto B",18/08/23,8,4,6,0,0,Transferencia,Semanal,Tablet
+1433,Producto D,Electronica,249.67,127,Carlos,20,H,Ciudad B,"Producto D,Producto C",6/09/23,6,4,13,1,0,PayPal,Trimestral,Móvil
+1584,Producto B,Ropa,455.82,107,Luis,32,M,Ciudad B,"Producto D,Producto A,Producto B,Producto A",29/06/23,8,2,5,0,10,Transferencia,Mensual,Móvil
+1705,Producto A,Ropa,155.41,167,Ana,23,H,Ciudad C,"Producto A,Producto B,Producto D",8/06/23,2,3,6,0,0,Tarjeta,Semanal,Móvil
+1062,Producto D,Electronica,239.6,121,Ana,39,M,Ciudad B,"Producto B,Producto C,Producto D,Producto C",27/05/23,7,3,18,0,15,Transferencia,Trimestral,Desktop
+1684,Producto C,Electronica,23.07,183,Maria,56,H,Ciudad C,"Producto A,Producto B,Producto B",12/11/23,8,2,5,0,15,Transferencia,Trimestral,Móvil
+1017,Producto A,Ropa,198.9,182,Juan,46,H,Ciudad B,Producto D,12/02/23,2,4,3,1,5,Tarjeta,Mensual,Desktop
+1050,Producto C,Ropa,412.22,143,Luis,60,M,Ciudad B,Producto D,2/06/23,3,1,9,0,15,PayPal,Semanal,Desktop
+1883,Producto B,Electronica,20.77,146,Maria,27,M,Ciudad B,Producto A,11/04/23,5,5,3,0,0,Efectivo,Mensual,Desktop
+1948,Producto A,Electronica,102.01,116,Juan,45,M,Ciudad C,Producto D,2/01/23,1,3,1,0,10,PayPal,Mensual,Móvil
+1183,Producto B,Electronica,86.1,111,Luis,30,H,Ciudad C,Producto D,29/01/23,2,2,7,1,0,Tarjeta,Semanal,Móvil
+1953,Producto B,Juguetes,54.49,185,Sofia,28,M,Ciudad B,"Producto C,Producto D",11/05/23,4,4,13,0,10,Tarjeta,Trimestral,Móvil
+1775,Producto B,Ropa,49.61,154,Sofia,52,M,Ciudad A,Producto A,4/10/23,5,3,7,0,15,Transferencia,Mensual,Tablet
+1520,Producto B,Juguetes,392.99,152,Juan,54,M,Ciudad B,"Producto D,Producto C",27/06/23,7,3,7,0,10,Transferencia,Semanal,Móvil
+1607,Producto C,Hogar,265.06,153,Luis,64,M,Ciudad C,"Producto B,Producto C,Producto C,Producto B",26/12/23,2,1,18,0,5,Transferencia,Mensual,Desktop
+1602,Producto D,Ropa,362.8,162,Ana,68,H,Ciudad A,Producto D,13/02/23,2,4,19,0,15,Transferencia,Semanal,Móvil
+1629,Producto B,Electronica,104.05,170,Ana,19,M,Ciudad C,Producto D,13/05/23,3,1,10,0,0,Tarjeta,Semanal,Desktop
+1627,Producto D,Electronica,147.78,102,Sofia,62,H,Ciudad B,"Producto D,Producto A",4/10/23,4,5,7,0,15,Efectivo,Semanal,Tablet
+1534,Producto D,Juguetes,427.93,191,Sofia,22,H,Ciudad C,"Producto C,Producto A,Producto C,Producto D",30/11/23,9,4,10,0,5,PayPal,Semanal,Móvil
+1646,Producto D,Hogar,463.6,133,Ana,66,H,Ciudad C,Producto A,20/09/23,6,5,2,0,0,PayPal,Mensual,Tablet
+1264,Producto A,Ropa,225.01,161,Luis,43,H,Ciudad C,Producto B,3/06/23,2,4,6,0,10,Efectivo,Trimestral,Móvil
+1821,Producto D,Juguetes,360.72,148,Juan,37,H,Ciudad C,"Producto A,Producto D,Producto D",24/10/23,4,4,19,0,10,Transferencia,Semanal,Móvil
+1600,Producto B,Ropa,135.56,184,Juan,27,M,Ciudad B,"Producto D,Producto D,Producto C,Producto D",8/08/23,1,4,17,0,0,Tarjeta,Mensual,Desktop
+1115,Producto D,Ropa,227.91,175,Maria,56,H,Ciudad C,"Producto D,Producto D,Producto A,Producto C",7/07/23,9,2,2,0,10,Efectivo,Trimestral,Desktop
+1783,Producto C,Ropa,204.48,109,Luis,34,H,Ciudad C,Producto C,29/01/23,2,1,2,1,10,Tarjeta,Semanal,Tablet
+1545,Producto B,Hogar,49.55,147,Maria,18,M,Ciudad A,"Producto A,Producto B",2/08/23,9,2,17,0,0,Efectivo,Mensual,Móvil
+1804,Producto A,Electronica,490.81,171,Luis,59,H,Ciudad A,"Producto A,Producto B,Producto A",27/12/23,9,5,2,0,5,Transferencia,Trimestral,Móvil
+1842,Producto A,Juguetes,304.42,198,Ana,34,M,Ciudad C,Producto D,5/07/23,1,1,4,0,5,Transferencia,Semanal,Móvil
+1946,Producto D,Electronica,121.2,169,Carlos,43,H,Ciudad C,"Producto B,Producto B",22/11/23,9,4,5,0,10,Tarjeta,Trimestral,Tablet
+1607,Producto A,Juguetes,308.69,183,Carlos,69,M,Ciudad B,"Producto D,Producto D",21/09/23,4,2,4,0,10,Tarjeta,Mensual,Móvil
+1805,Producto A,Ropa,248.03,159,Carlos,47,H,Ciudad B,"Producto B,Producto D,Producto A,Producto C",6/07/23,8,1,7,0,0,Tarjeta,Semanal,Tablet
+1857,Producto B,Ropa,12.94,113,Maria,27,M,Ciudad B,Producto D,6/08/23,8,1,7,0,15,Tarjeta,Mensual,Móvil
+1393,Producto C,Juguetes,456.66,182,Ana,66,H,Ciudad B,"Producto D,Producto B",28/02/23,8,1,4,0,5,Efectivo,Semanal,Móvil
+1055,Producto D,Hogar,25.07,133,Ana,53,H,Ciudad B,"Producto C,Producto A,Producto B,Producto C",29/03/23,5,2,7,0,20,Transferencia,Trimestral,Desktop
+1573,Producto C,Electronica,79.79,190,Ana,47,H,Ciudad C,Producto A,27/11/23,2,4,7,1,10,Transferencia,Trimestral,Tablet
+1300,Producto D,Electronica,326.75,133,Maria,18,H,Ciudad B,"Producto A,Producto A,Producto B,Producto D",9/06/23,8,5,4,0,15,Tarjeta,Trimestral,Tablet
+1089,Producto B,Electronica,95.2,108,Maria,35,H,Ciudad C,"Producto B,Producto C",6/10/23,4,3,16,1,15,Efectivo,Mensual,Desktop
+1074,Producto C,Hogar,161.45,134,Juan,54,H,Ciudad A,"Producto B,Producto B,Producto B,Producto B",25/04/23,2,1,7,0,10,Tarjeta,Semanal,Tablet
+1094,Producto B,Ropa,321.95,121,Luis,21,H,Ciudad A,"Producto A,Producto B,Producto A,Producto D",14/08/23,2,2,11,0,20,Transferencia,Semanal,Desktop
+1272,Producto B,Juguetes,495.48,129,Sofia,69,M,Ciudad A,"Producto A,Producto A",12/10/23,8,4,16,0,10,Transferencia,Semanal,Desktop
+1547,Producto D,Juguetes,143.31,116,Luis,21,M,Ciudad B,"Producto B,Producto D",23/12/23,6,2,2,0,10,Efectivo,Mensual,Tablet
+1670,Producto C,Juguetes,254.06,137,Luis,38,M,Ciudad B,"Producto B,Producto D,Producto D,Producto D",20/12/23,8,2,1,0,10,Transferencia,Mensual,Tablet
+1352,Producto D,Hogar,186.57,133,Carlos,58,M,Ciudad B,Producto D,17/05/23,4,3,9,0,0,Transferencia,Semanal,Móvil
+1285,Producto B,Hogar,337.55,179,Carlos,45,M,Ciudad A,"Producto D,Producto C,Producto A",11/05/23,7,3,10,1,5,Transferencia,Trimestral,Tablet
+1350,Producto D,Electronica,166.49,183,Maria,67,H,Ciudad C,"Producto A,Producto A,Producto B,Producto A",15/10/23,5,1,18,0,5,PayPal,Semanal,Tablet
+1906,Producto B,Hogar,424.79,169,Juan,47,H,Ciudad B,"Producto B,Producto A,Producto D",19/03/23,4,1,3,0,0,Transferencia,Trimestral,Móvil
+1489,Producto D,Electronica,460.24,142,Ana,21,M,Ciudad C,"Producto D,Producto A,Producto A",24/08/23,8,4,16,0,0,Efectivo,Trimestral,Tablet
+1890,Producto D,Hogar,381.8,199,Ana,48,M,Ciudad C,"Producto C,Producto D,Producto C,Producto B",15/06/23,2,1,15,1,0,Efectivo,Mensual,Tablet
+1391,Producto D,Electronica,358.04,156,Carlos,32,H,Ciudad A,"Producto C,Producto D,Producto C,Producto A",25/04/23,6,4,2,0,5,Tarjeta,Mensual,Desktop
+1062,Producto A,Ropa,413.96,196,Ana,39,H,Ciudad C,"Producto A,Producto B",17/02/23,8,4,7,1,10,PayPal,Trimestral,Tablet
+1417,Producto B,Electronica,153.7,180,Juan,49,H,Ciudad A,"Producto D,Producto C,Producto C,Producto C",8/04/23,3,2,9,1,5,Efectivo,Trimestral,Móvil
+1506,Producto B,Hogar,278.38,135,Luis,50,H,Ciudad C,"Producto A,Producto A,Producto C",15/07/23,4,5,17,1,10,PayPal,Mensual,Móvil
+1414,Producto A,Juguetes,417.48,178,Ana,26,H,Ciudad A,"Producto C,Producto B",1/01/23,5,4,19,1,5,PayPal,Mensual,Móvil
+1639,Producto C,Hogar,124.83,191,Ana,24,H,Ciudad A,"Producto A,Producto A,Producto D,Producto B",30/12/23,1,4,1,0,0,Efectivo,Trimestral,Móvil
+1526,Producto B,Hogar,398.4,140,Sofia,62,H,Ciudad C,"Producto A,Producto D,Producto A,Producto B",9/03/23,5,1,6,1,5,PayPal,Semanal,Tablet
+1388,Producto C,Electronica,448.21,146,Ana,43,H,Ciudad B,"Producto B,Producto A,Producto D",11/12/23,2,4,7,0,5,Transferencia,Mensual,Desktop
+1582,Producto B,Hogar,354.67,193,Carlos,20,H,Ciudad C,"Producto C,Producto D,Producto A",4/06/23,6,5,5,1,15,PayPal,Semanal,Tablet
+1358,Producto A,Juguetes,420.22,165,Sofia,46,M,Ciudad C,Producto D,16/11/23,6,5,18,0,10,Transferencia,Trimestral,Desktop
+1266,Producto B,Juguetes,366.4,101,Juan,58,H,Ciudad B,"Producto B,Producto B,Producto A",17/09/23,2,4,3,0,20,Transferencia,Mensual,Tablet
+1069,Producto C,Hogar,375.09,173,Luis,23,H,Ciudad B,"Producto A,Producto C,Producto A",2/11/23,2,4,8,0,20,Transferencia,Mensual,Móvil
+1696,Producto C,Electronica,99.9,158,Luis,61,H,Ciudad C,"Producto C,Producto C,Producto C",23/02/23,7,5,18,1,20,Efectivo,Mensual,Desktop
+1522,Producto B,Hogar,167.73,108,Maria,48,H,Ciudad A,"Producto B,Producto A,Producto C",7/03/23,9,4,4,0,20,Efectivo,Semanal,Tablet
+1287,Producto C,Ropa,21.4,121,Sofia,56,M,Ciudad A,"Producto D,Producto C,Producto A,Producto A",21/03/23,2,5,8,0,20,Tarjeta,Semanal,Desktop
+1666,Producto B,vElectronica,236.64,199,Juan,58,H,Ciudad A,"Producto B,Producto A",2/09/23,9,4,5,1,5,Tarjeta,Mensual,Móvil
+1519,Producto A,Hogar,162.74,167,Carlos,35,M,Ciudad C,Producto A,18/04/23,7,5,2,0,5,Tarjeta,Semanal,Desktop
+1733,Producto B,Electronica,278.39,109,Carlos,29,H,Ciudad A,Producto A,8/02/23,1,3,16,0,5,PayPal,Mensual,Desktop
+1139,Producto C,Ropa,381.76,135,Carlos,55,M,Ciudad B,"Producto C,Producto B,Producto B",17/05/23,9,2,4,0,0,Transferencia,Trimestral,Móvil
+1044,Producto A,Electronica,115.35,133,Sofia,36,H,Ciudad B,"Producto A,Producto B,Producto D,Producto B",29/12/23,7,4,10,0,5,Tarjeta,Trimestral,Móvil
+1824,Producto A,Ropa,322.07,146,Juan,32,H,Ciudad C,"Producto B,Producto A",23/03/23,5,1,10,1,20,Efectivo,Trimestral,Tablet
+1957,Producto C,Electronica,113.77,103,Sofia,36,M,Ciudad B,Producto A,26/08/23,4,5,12,0,0,Tarjeta,Semanal,Desktop
+1699,Producto C,Electronica,325.43,101,Luis,52,H,Ciudad A,"Producto A,Producto D",22/02/23,1,5,13,1,10,Transferencia,Semanal,Móvil
+1186,Producto B,Electronica,196.13,130,Ana,22,M,Ciudad B,"Producto C,Producto D,Producto B,Producto D",1/02/23,5,3,11,0,5,PayPal,Semanal,Desktop
+1852,Producto C,Ropa,41.51,149,Sofia,56,H,Ciudad B,"Producto D,Producto C,Producto D",28/09/23,8,2,13,1,20,Tarjeta,Semanal,Desktop
+1255,Producto D,Hogar,163.99,113,Sofia,68,M,Ciudad C,Producto D,23/05/23,3,2,16,0,15,Transferencia,Trimestral,Desktop
+1059,Producto A,Hogar,376.68,199,Luis,40,H,Ciudad B,"Producto D,Producto D",4/07/23,3,5,1,0,20,Transferencia,Mensual,Móvil
+1729,Producto C,Electronica,491.0,147,Sofia,38,H,Ciudad C,Producto B,13/11/23,8,2,15,0,10,Efectivo,Trimestral,Móvil
+1482,Producto C,Hogar,335.79,171,Luis,66,M,Ciudad C,"Producto B,Producto B",3/03/23,6,1,5,1,0,Efectivo,Mensual,Tablet
+1457,Producto C,Juguetes,35.58,170,Maria,23,M,Ciudad A,"Producto C,Producto C,Producto D",1/11/23,8,2,4,1,10,Transferencia,Mensual,Desktop
+1421,Producto C,Ropa,422.58,137,Carlos,49,H,Ciudad C,"Producto A,Producto B,Producto B",2/11/23,6,4,19,0,10,Tarjeta,Semanal,Móvil
+1125,Producto D,Ropa,155.14,142,Maria,55,H,Ciudad B,"Producto D,Producto B,Producto D,Producto A",17/06/23,1,3,8,0,20,PayPal,Semanal,Desktop
+1721,Producto A,Ropa,211.03,173,Carlos,54,M,Ciudad A,"Producto B,Producto A,Producto B,Producto D",29/08/23,6,5,2,1,0,PayPal,Semanal,Desktop
+1757,Producto A,Electronica,57.33,176,Maria,30,H,Ciudad C,"Producto B,Producto B",17/07/23,8,4,17,0,15,Efectivo,Mensual,Tablet
+1496,Producto C,Juguetes,367.97,123,Carlos,64,M,Ciudad C,Producto B,30/05/23,4,2,7,0,20,Efectivo,Trimestral,Tablet
+1310,Producto A,Electronica,334.87,173,Luis,56,M,Ciudad A,"Producto B,Producto A,Producto D,Producto D",10/03/23,9,4,19,0,5,Transferencia,Semanal,Tablet
+1274,Producto B,Electronica,220.94,178,Luis,35,M,Ciudad A,"Producto C,Producto D,Producto C,Producto A",19/10/23,7,2,5,0,20,Efectivo,Trimestral,Tablet
+1275,Producto A,Ropa,372.39,166,Ana,65,M,Ciudad A,"Producto B,Producto B",31/08/23,2,1,6,0,20,PayPal,Trimestral,Móvil
+1797,Producto D,Electronica,274.57,195,Juan,46,M,Ciudad A,"Producto D,Producto B,Producto D,Producto C",22/12/23,9,5,14,0,15,Tarjeta,Semanal,Tablet
+1076,Producto B,Juguetes,153.87,184,Luis,56,H,Ciudad B,"Producto C,Producto B,Producto A",5/09/23,8,5,2,0,10,Tarjeta,Semanal,Móvil
+1472,Producto C,Hogar,276.63,185,Juan,47,H,Ciudad A,"Producto A,Producto C",7/04/23,7,5,19,0,0,Transferencia,Trimestral,Móvil
+1649,Producto D,Electronica,321.24,199,Sofia,30,H,Ciudad C,"Producto A,Producto A,Producto C",25/04/23,6,1,13,1,5,Transferencia,Mensual,Tablet
+1240,Producto B,Juguetes,88.92,124,Juan,48,M,Ciudad C,"Producto A,Producto A,Producto D",3/10/23,1,5,15,1,20,Transferencia,Semanal,Móvil
+1011,Producto B,Electronica,51.47,168,Juan,33,M,Ciudad B,"Producto B,Producto D",8/07/23,3,3,9,0,20,Efectivo,Semanal,Tablet
+1482,Producto A,Juguetes,349.47,172,Juan,23,H,Ciudad B,"Producto B,Producto C,Producto D",11/04/23,5,1,2,1,10,Transferencia,Trimestral,Móvil
+1270,Producto B,Electronica,69.11,141,Carlos,47,M,Ciudad C,"Producto B,Producto C,Producto B,Producto C",4/04/23,2,2,6,0,0,Efectivo,Mensual,Móvil
+1717,Producto B,Juguetes,203.37,121,Carlos,45,H,Ciudad B,"Producto B,Producto D,Producto D",20/09/23,2,1,9,0,10,PayPal,Mensual,Desktop
+1876,Producto A,Juguetes,462.27,124,Luis,53,M,Ciudad B,"Producto C,Producto B,Producto C,Producto D",8/05/23,4,1,17,0,10,PayPal,Trimestral,Tablet
+1051,Producto C,Ropa,292.64,183,Maria,47,H,Ciudad C,Producto A,29/07/23,7,3,11,0,5,PayPal,Mensual,Tablet
+1859,Producto D,Juguetes,175.44,169,Sofia,64,H,Ciudad C,Producto D,1/01/24,5,1,3,0,0,Efectivo,Trimestral,Tablet
+1625,Producto C,Ropa,361.16,144,Juan,48,H,Ciudad A,"Producto A,Producto B,Producto A,Producto B",7/02/23,6,3,1,1,5,Tarjeta,Trimestral,Móvil
+1428,Producto D,Ropa,136.49,117,Sofia,44,M,Ciudad C,"Producto D,Producto C,Producto B",15/10/23,2,2,8,1,20,Transferencia,Mensual,Móvil
+1846,Producto B,Hogar,477.39,156,Sofia,38,H,Ciudad C,"Producto D,Producto B,Producto D",16/08/23,6,3,14,0,15,Transferencia,Mensual,Desktop
+1672,Producto A,Electronica,156.7,175,Carlos,51,M,Ciudad C,"Producto C,Producto A,Producto A",18/09/23,7,3,18,0,0,Tarjeta,Trimestral,Tablet
+1741,Producto D,Hogar,415.88,141,Ana,64,H,Ciudad C,"Producto B,Producto C,Producto C",4/07/23,2,1,8,0,15,PayPal,Semanal,Desktop
+1245,Producto A,Electronica,105.34,153,Juan,55,H,Ciudad B,"Producto D,Producto C,Producto C",23/11/23,1,1,12,0,15,Tarjeta,Semanal,Tablet
+1719,Producto C,Electronica,60.3,174,Juan,39,M,Ciudad C,"Producto A,Producto C,Producto C",1/03/23,7,5,13,1,5,Tarjeta,Mensual,Desktop
+1139,Producto D,Hogar,490.71,139,Carlos,22,H,Ciudad B,Producto C,30/11/23,8,5,16,0,20,Tarjeta,Mensual,Tablet
+1649,Producto D,Juguetes,326.32,199,Carlos,53,H,Ciudad C,"Producto A,Producto A,Producto C",23/10/23,7,4,10,1,15,Efectivo,Trimestral,Desktop
+1850,Producto C,Hogar,200.04,122,Maria,46,M,Ciudad C,"Producto C,Producto A,Producto B,Producto B",14/01/23,2,4,7,0,20,PayPal,Mensual,Tablet
+1945,Producto B,Juguetes,265.37,148,Juan,40,H,Ciudad B,"Producto D,Producto A,Producto D",11/06/23,8,5,12,0,0,PayPal,Mensual,Móvil
+1564,Producto B,Hogar,406.33,169,Maria,40,H,Ciudad B,"Producto C,Producto C,Producto A,Producto A",9/03/23,2,5,3,1,15,Efectivo,Mensual,Tablet
+1023,Producto C,Hogar,487.62,117,Sofia,50,H,Ciudad C,"Producto A,Producto A,Producto D",13/05/23,3,1,17,1,5,Transferencia,Trimestral,Tablet
+1317,Producto B,Juguetes,230.37,199,Luis,48,M,Ciudad A,"Producto D,Producto A,Producto B,Producto C",1/03/23,1,5,16,1,20,Tarjeta,Semanal,Desktop
+1428,Producto C,Juguetes,106.12,174,Maria,41,M,Ciudad C,"Producto A,Producto A,Producto B,Producto B",15/02/23,2,3,5,0,15,Efectivo,Semanal,Tablet
+1984,Producto A,Hogar,156.28,196,Maria,41,M,Ciudad C,"Producto B,Producto B",28/03/23,2,4,16,0,0,Efectivo,Semanal,Tablet
+1217,Producto D,Juguetes,160.44,164,Juan,30,M,Ciudad B,Producto B,14/10/23,8,2,8,0,5,Transferencia,Semanal,Móvil
+1566,Producto A,Ropa,192.93,130,Carlos,38,M,Ciudad A,"Producto D,Producto A",14/11/23,9,4,10,0,10,Tarjeta,Semanal,Desktop
+1197,Producto D,Juguetes,260.94,118,Ana,20,M,Ciudad C,"Producto B,Producto C",21/10/23,6,3,14,1,5,PayPal,Mensual,Móvil
+1175,Producto C,Juguetes,157.08,112,Carlos,21,M,Ciudad C,Producto B,29/07/23,1,1,5,1,10,Tarjeta,Semanal,Móvil
+1922,Producto D,Hogar,316.88,169,Juan,28,H,Ciudad C,"Producto C,Producto C,Producto C,Producto D",21/03/23,2,1,10,0,5,PayPal,Mensual,Móvil
+1077,Producto A,Electronica,224.98,185,Carlos,54,H,Ciudad A,Producto D,27/06/23,9,5,15,0,5,Efectivo,Semanal,Móvil
+1402,Producto B,Ropa,289.24,131,Maria,46,M,Ciudad C,"Producto A,Producto D",31/12/23,4,5,8,0,0,PayPal,Semanal,Desktop
+1541,Producto B,Electronica,446.39,178,Luis,49,M,Ciudad B,"Producto C,Producto A,Producto B",15/05/23,1,4,17,0,20,Transferencia,Trimestral,Tablet
+1941,Producto D,Electronica,423.35,116,Ana,32,H,Ciudad C,"Producto C,Producto B,Producto C,Producto A",18/02/23,7,3,7,0,10,Tarjeta,Trimestral,Tablet
+1293,Producto B,Electronica,470.63,198,Maria,66,H,Ciudad B,"Producto D,Producto A",26/07/23,1,4,16,0,15,Tarjeta,Semanal,Desktop
+1086,Producto D,Hogar,427.75,133,Sofia,29,M,Ciudad C,Producto C,10/04/23,5,1,8,0,15,Tarjeta,Mensual,Móvil
+1453,Producto D,Ropa,159.87,166,Carlos,23,M,Ciudad A,Producto C,2/05/23,9,2,17,0,5,Transferencia,Mensual,Tablet
+1067,Producto D,Electronica,301.39,187,Sofia,28,M,Ciudad B,Producto A,8/01/23,9,4,9,0,0,Tarjeta,Trimestral,Móvil
+1463,Producto B,Electronica,17.21,120,Ana,36,H,Ciudad C,"Producto D,Producto D,Producto C,Producto B",26/08/23,1,5,2,0,20,Tarjeta,Mensual,Tablet
+1764,Producto C,Electronica,382.01,141,Carlos,47,M,Ciudad B,"Producto D,Producto A,Producto C",14/01/23,8,3,13,1,20,PayPal,Mensual,Desktop
+1753,Producto B,Juguetes,345.51,132,Ana,29,H,Ciudad C,"Producto A,Producto C,Producto C,Producto A",8/04/23,4,5,4,0,10,Tarjeta,Semanal,Desktop
+1953,Producto C,Ropa,58.5,135,Sofia,60,M,Ciudad A,"Producto D,Producto A,Producto D,Producto B",29/11/23,8,1,5,0,15,Efectivo,Trimestral,Desktop
+1560,Producto C,Ropa,499.45,122,Ana,46,H,Ciudad C,"Producto A,Producto B",20/04/23,3,2,15,0,20,PayPal,Semanal,Tablet
+1666,Producto C,Juguetes,83.49,195,Sofia,26,M,Ciudad C,"Producto C,Producto C,Producto C,Producto B",31/08/23,9,3,12,1,15,PayPal,Mensual,Móvil
+1269,Producto A,Electronica,413.68,164,Carlos,44,H,Ciudad C,"Producto C,Producto A",2/02/23,3,5,10,0,0,Tarjeta,Mensual,Móvil
+1236,Producto C,Electronica,409.87,144,Maria,19,H,Ciudad A,"Producto A,Producto A,Producto A,Producto C",17/09/23,6,3,19,0,10,Tarjeta,Semanal,Tablet
+1928,Producto A,Juguetes,65.79,157,Juan,65,H,Ciudad C,"Producto D,Producto C",18/11/23,7,2,17,0,20,PayPal,Mensual,Tablet
+1901,Producto A,Hogar,455.51,187,Juan,57,H,Ciudad C,Producto C,20/09/23,1,1,10,1,15,PayPal,Mensual,Tablet
+1528,Producto A,Electronica,320.7,191,Sofia,45,M,Ciudad B,Producto B,13/03/23,9,1,12,0,15,Transferencia,Semanal,Móvil
+1002,Producto B,Hogar,125.31,149,Ana,63,H,Ciudad B,"Producto D,Producto D",26/09/23,1,3,18,1,5,PayPal,Semanal,Desktop
+1808,Producto C,Electronica,146.43,156,Sofia,33,H,Ciudad A,"Producto A,Producto A,Producto D,Producto A",16/02/23,6,5,11,0,20,Efectivo,Mensual,Tablet
+1829,Producto D,Hogar,223.01,198,Carlos,37,M,Ciudad C,"Producto B,Producto D",13/10/23,3,4,17,0,5,PayPal,Semanal,Desktop
+1379,Producto A,Ropa,429.19,107,Juan,57,M,Ciudad A,"Producto A,Producto C",13/04/23,1,4,17,0,15,Tarjeta,Mensual,Móvil
+1386,Producto D,Electronica,322.38,155,Carlos,52,M,Ciudad B,"Producto D,Producto A",23/12/23,6,3,10,0,10,Transferencia,Semanal,Tablet
+1460,Producto A,Juguetes,402.23,131,Carlos,31,M,Ciudad A,Producto C,10/09/23,6,5,16,1,15,Transferencia,Mensual,Móvil
+1472,Producto A,Electronica,282.46,100,Carlos,68,H,Ciudad A,"Producto B,Producto A,Producto C",2/01/23,1,5,9,0,10,PayPal,Trimestral,Tablet
+1512,Producto B,Juguetes,381.59,197,Sofia,65,M,Ciudad C,"Producto D,Producto B,Producto B,Producto A",14/12/23,2,1,6,1,20,Efectivo,Trimestral,Tablet
+1610,Producto B,Juguetes,394.69,124,Sofia,27,M,Ciudad B,"Producto C,Producto C,Producto D,Producto A",23/05/23,5,3,6,0,20,Tarjeta,Trimestral,Tablet
+1666,Producto A,Hogar,14.51,146,Ana,18,H,Ciudad B,"Producto D,Producto D,Producto D,Producto D",2/03/23,1,4,19,0,20,Transferencia,Trimestral,Desktop
+1347,Producto B,Hogar,328.18,109,Ana,49,H,Ciudad A,"Producto A,Producto D",1/01/23,3,3,5,0,15,Tarjeta,Semanal,Desktop
+1095,Producto D,Electronica,64.72,152,Juan,59,M,Ciudad A,"Producto B,Producto B",24/12/23,5,5,11,0,15,PayPal,Semanal,Tablet
+1852,Producto C,Juguetes,466.35,130,Luis,52,H,Ciudad B,"Producto A,Producto A,Producto B",4/01/23,4,3,7,0,15,PayPal,Mensual,Móvil
+1842,Producto C,Ropa,99.01,124,Carlos,54,H,Ciudad C,"Producto C,Producto C,Producto B,Producto B",4/03/23,6,5,17,1,0,PayPal,Trimestral,Desktop
+1185,Producto D,Hogar,323.28,155,Carlos,53,H,Ciudad C,"Producto C,Producto B",28/10/23,2,3,7,1,20,Transferencia,Mensual,Desktop
+1927,Producto A,Ropa,324.05,125,Luis,68,M,Ciudad A,Producto B,15/06/23,3,4,8,1,5,Tarjeta,Trimestral,Móvil
+1585,Producto D,Ropa,129.85,119,Juan,67,H,Ciudad B,Producto C,22/02/23,1,2,18,0,15,Efectivo,Semanal,Desktop
+1435,Producto A,Hogar,143.03,151,Luis,50,M,Ciudad B,"Producto B,Producto C,Producto B,Producto C",28/04/23,1,1,6,0,10,Transferencia,Trimestral,Tablet
+1123,Producto D,Ropa,387.0,121,Ana,36,M,Ciudad C,"Producto A,Producto A,Producto C",5/04/23,9,4,1,0,10,Tarjeta,Trimestral,Móvil
