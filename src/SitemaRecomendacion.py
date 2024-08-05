@@ -27,3 +27,7 @@ print(tabla_x)
 
 # Scki-learn es una libreria que nos permite hacer machine learning
 
+
+
+
+# Pytorch es una libreria que nos permite hacer deep learning
