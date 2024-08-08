@@ -60,10 +60,10 @@ class Red(nn.Module):
 n_entradas = t_x_train.shape[1]
 model = Red(n_entradas)
 criterion = nn.BCELoss()
-optimizer = torch.optim.Adam(model.parameters(), lr=0.000001)
+optimizer = torch.optim.Adam(model.parameters(), lr=0.00001)
 
 # Entrenar el modelo con más épocas
-epochs = 600
+epochs = 1000
 train_losses = []
 test_losses = []
 accuracies = []
