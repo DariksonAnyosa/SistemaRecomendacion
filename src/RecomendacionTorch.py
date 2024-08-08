@@ -6,21 +6,18 @@ import torch.nn as nn
 from torch.utils.data import TensorDataset, DataLoader
 import matplotlib.pyplot as plt
 
-
 # Se carga la base con la libreria pandas
 data_base = pd.read_csv('data/SistemaRecomendacion.csv')
 
 # Eliminar columnas innecesarias 
-columnas_innecesarias = ['nombre_producto', 'categoria_producto', 'nombre_usuario', 'ubicacion_usuario', 'historial_compras', 'opiniones_usuarios', 'recomendado']
-data = data_base[columnas_innecesarias]
+columnas_innecesarias = ['nombre_producto', 'categoria_producto', 'nombre_usuario', 'ubicacion_usuario', 'historial_compras', 'opiniones_usuarios']
+data = data_base.drop(columnas_innecesarias, axis=1)
 
 # Convertir datos categóricos a numéricos
-datos_x = {}
-categorical_columns = ['nombre_producto', 'categoria_producto', 'nombre_usuario', 'ubicacion_usuario', 'historial_compras', 'opiniones_usuarios']
-for i in categorical_columns:
-    le = LabelEncoder()
-    data[i] = le.fit_transform(data[i])
-    datos_x[i] = le
+le = LabelEncoder()
+for i in data.columns:
+    if data[i].dtype == 'object':  # Convertir solo columnas categóricas (de tipo objeto)
+        data[i] = le.fit_transform(data[i])
 
 # Separar características y etiquetas
 X = data.drop('recomendado', axis=1)
@@ -63,10 +60,10 @@ class Red(nn.Module):
 n_entradas = t_x_train.shape[1]
 model = Red(n_entradas)
 criterion = nn.BCELoss()
-optimizer = torch.optim.Adam(model.parameters(), lr=0.00001)
+optimizer = torch.optim.Adam(model.parameters(), lr=0.000001)
 
 # Entrenar el modelo con más épocas
-epochs = 1000
+epochs = 600
 train_losses = []
 test_losses = []
 accuracies = []
