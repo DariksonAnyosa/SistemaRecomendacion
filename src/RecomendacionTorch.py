@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 data_base = pd.read_csv('data/SistemaRecomendacion.csv')
 
 # Eliminar columnas innecesarias 
-columnas_innecesarias = ['nombre_producto', 'categoria_producto', 'nombre_usuario', 'ubicacion_usuario', 'historial_compras', 'opiniones_usuarios']
+columnas_innecesarias = ['nombre_producto', 'categoria_producto', 'nombre_usuario', 'opiniones_usuarios','id_producto','id_usuario','genero_usuario','ubicacion_usuario','historial_compras','fecha_venta','descuentos_aplicados','metodo_pago','frecuencia_compras','dispositivo_uso']
 data = data_base.drop(columnas_innecesarias, axis=1)
 
 # Convertir datos categóricos a numéricos
