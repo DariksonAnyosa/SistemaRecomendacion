@@ -73,27 +73,38 @@ for epoch in range(epochs):
     if (epoch + 1) % 5 == 0:
         print(f'Epoch {epoch+1}/{epochs}, Loss: {loss.item():.4f}')
 
-# Evaluar el modelo
-model.eval()
-with torch.no_grad():
-    y_pred_test = model(t_x_test)
-    test_loss = criterion(y_pred_test, t_y_test)
-    y_pred_test_class = y_pred_test.round()
-    accuracy = (y_pred_test_class.eq(t_y_test).sum() / float(t_y_test.shape[0])).item()
+# Gráficos de rendimiento
+plt.figure(figsize=(12, 4))
+plt.subplot(1, 2, 1)
+plt.plot(range(1, epochs+1), train_losses, label='Pérdida de entrenamiento')
+plt.plot(range(5, epochs+1, 5), test_losses, label='Pérdida en prueba')
+plt.xlabel('Épocas')
+plt.ylabel('Pérdida')
+plt.title('Pérdida a lo largo del entrenamiento')
+plt.legend()
 
-print(f'Pérdida en datos de prueba: {test_loss:.4f}')
-print(f'Precisión en datos de prueba: {accuracy:.4f}')
+plt.subplot(1, 2, 2)
+plt.plot(range(5, epochs+1, 5), accuracies, label='Precisión en prueba')
+plt.xlabel('Épocas')
+plt.ylabel('Precisión')
+plt.title('Precisión a lo largo del entrenamiento')
+plt.legend()
+
+plt.tight_layout()
+plt.show()
 
 # Realizar predicciones y mostrar recomendaciones
-num_recommendations = 10  # Cambia este valor según cuántas recomendaciones quieras ver
-predicciones = y_pred_test[:num_recommendations].round().numpy().flatten()
+num_recommendations = 10
+predicciones_proba = y_pred_test[:num_recommendations].numpy().flatten() # Obtener las probabilidades
+predicciones = y_pred_test[:num_recommendations].round().numpy().flatten() # Obtener las predicciones
 
 # Crear un DataFrame con las recomendaciones usando los índices originales
 indices_originales = y_test.index[:num_recommendations]
-productos_recomendados = data.iloc[indices_originales].copy()
+productos_recomendados = data_base.iloc[indices_originales].copy()
+productos_recomendados['probabilidad_recomendacion'] = predicciones_proba
 productos_recomendados['recomendacion'] = predicciones
 productos_recomendados['recomendacion'] = productos_recomendados['recomendacion'].apply(lambda x: 'Recomendado' if x == 1 else 'No recomendado')
 
-# Mostrar las primeras 10 recomendaciones
+# Mostrar las primeras 10 recomendaciones incluyendo la ubicación del producto y la probabilidad
 print("Productos recomendados:")
-print(productos_recomendados[['nombre_producto', 'recomendacion']])
+print(productos_recomendados[['nombre_producto', 'ubicacion_usuario', 'probabilidad_recomendacion', 'recomendacion']])
