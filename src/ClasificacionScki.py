@@ -45,4 +45,5 @@ a=clf.fit(X_train, y_train)  # Ajustar el modelo con los datos de entrenamiento
 y_pred = clf.predict(X_test)  # Predecir las etiquetas para los datos de prueba
 print(classification_report(y_test, y_pred))  # Generar un informe de clasificación que muestra la precisión, recall y F1-score
 
+#f1=2*((recall*precision)/(recall+precision))
 ###########################################################################
